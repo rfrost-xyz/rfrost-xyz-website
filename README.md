@@ -14,7 +14,7 @@ Once running, you will be able to preview the locally hosted version at [localho
 hugo serve
 ```
 
-### Continuous deployment to Netlify
+### Continuous branch deployment
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/639fb7a9-1d1a-40b2-9286-1d2163e8965e/deploy-status)](https://app.netlify.com/sites/rfrost-xyz/deploys)
 
