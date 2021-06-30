@@ -13,9 +13,9 @@ enableEmoji = true
 
 [params]
 author = "Richard Frost"
-description = "Head of Interactive and Immersive at Pilbrow & Partners"
+description = "Head of VR and AR at Pilbrow & Partners"
 keywords = "blog,developer,personal"
-info = ['Head of Interactive and Immersive at Pilbrow & Partners']
+info = ['Head of VR and AR at Pilbrow & Partners']
 avatarURL = "images/rfrost_profile@256.png"
 #gravatar = "john.doe@example.com"
 #footerContent = '<a href="#">Privacy</a>'
@@ -41,7 +41,7 @@ maxSeeAlsoItems = 5
 # Enable Twemoji
 enableTwemoji = false
 # Custom CSS
-customCSS = ["css/extra-style.css"]
+customCSS = ["css/coder-extra.css"]
 # Custom SCSS
 customSCSS = []
 # Custom JS
@@ -126,17 +126,17 @@ url = "https://pilbrowandpartners.com"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.en.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+# [[languages.en.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
 
-[[languages.en.menu.main]]
-name = "Contact"
-weight = 3
-url = "contact/"
+# [[languages.en.menu.main]]
+# name = "Contact"
+# weight = 3
+# url = "contact/"
