@@ -1,6 +1,6 @@
 # rfrost-xyz
 
-Website source files for personal website/blog. Continuously deployed to the Netlify, and hosted at [https://rfrost.xyz](https://rfrost.xyz)
+Source files for personal website/blog. Continuously deployed, and hosted at [https://rfrost.xyz](https://rfrost.xyz)
 
 ## Usage
 
