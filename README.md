@@ -2,6 +2,11 @@
 
 Source files for personal website/blog. Continuously deployed, and hosted at [https://rfrost.xyz](https://rfrost.xyz)
 
+<!-- License -->
+<!-- https://github.com/santisoler/cc-licenses -->
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 ## Usage
 
 ### Pre-requisites
@@ -19,3 +24,7 @@ hugo serve
 [![Netlify Status](https://api.netlify.com/api/v1/badges/639fb7a9-1d1a-40b2-9286-1d2163e8965e/deploy-status)](https://app.netlify.com/sites/rfrost-xyz/deploys)
 
 Framework for automatic deployment to [Netlify](https://www.netlify.com) is [setup](netlify.toml) whenever the `main` branch on [this repository](https://github.com/rdfrost/rfrost-xyz) receives a push.
+
+<!-- License -->
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
