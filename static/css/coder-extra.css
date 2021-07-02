@@ -88,3 +88,22 @@ body.colorscheme-dark .tag {
 body.colorscheme-dark .tag a {
 	color: #515864 !important;
 }
+
+
+.navigation a {
+	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif !important;
+	font-weight: normal !important;
+}
+.navigation .navigation-title {
+    letter-spacing: normal !important;
+}
+.footer {
+	font-size: 1.4rem !important;
+	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif;
+}
+.footer a:link {
+	color: #212121;
+}
+body.colorscheme-dark .footer a:link {
+	color: #dadada;
+}
