@@ -108,3 +108,6 @@ body.colorscheme-dark .tag a {
 body.colorscheme-dark .footer a:link {
 	color: #dadada;
 }
+.footer p {
+	margin-bottom: 0 !important;
+}
