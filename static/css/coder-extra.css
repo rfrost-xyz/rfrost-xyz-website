@@ -24,7 +24,7 @@ body {
 	font-weight: normal;
 	line-height: 1.6em !important;
 }
-p {
+article p {
 	text-justify: auto !important;
 	text-align: left !important;
 }
