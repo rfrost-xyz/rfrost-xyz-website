@@ -106,22 +106,16 @@ weight = 1
 url = "https://github.com/rdfrost/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
+name = "Artstation"
+icon = "fa fa-artstation"
 weight = 2
-url = "https://twitter.com/richyfrost/"
+url = "https://www.artstation.com/rfrost"
 
 [[params.social]]
-name = "Pilbrow & Partners"
-icon = "fa fa-briefcase"
+name = "IMDB"
+icon = "fa fa-imdb"
 weight = 3
-url = "https://pilbrowandpartners.com"
-
-[[params.social]]
-name = "Pilbrow & Partners"
-icon = "fa fa-beat"
-weight = 3
-url = "https://pilbrowandpartners.com"
+url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
 
 [languages.en]
 languageName = ":uk:"
