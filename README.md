@@ -2,15 +2,11 @@
 
 Source files for personal website/blog. Continuously deployed, and hosted at [https://rfrost.xyz](https://rfrost.xyz)
 
-<!-- License -->
-<!-- https://github.com/santisoler/cc-licenses -->
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 ## Usage
 
 ### Pre-requisites
 * [Hugo](https://gohugo.io/getting-started/installing/) (0.84.3, or above)
+* [Hugo-coder](https://github.com/luizdepra/hugo-coder)
 
 ### Preview locally
 Once running, you will be able to preview the locally hosted version at [localhost:1313](http://localhost:1313/).
@@ -25,6 +21,12 @@ hugo serve
 
 Framework for automatic deployment to [Netlify](https://www.netlify.com) is [setup](netlify.toml) whenever the `main` branch on [this repository](https://github.com/rdfrost/rfrost-xyz) receives a push.
 
-<!-- License -->
+## License
+<!-- https://github.com/santisoler/cc-licenses -->
+
+This repository is maintained under the [Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
