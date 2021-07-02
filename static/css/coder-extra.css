@@ -25,7 +25,8 @@ body {
 	line-height: 1.6em !important;
 }
 p {
-	text-justify: none !important;
+	text-justify: auto !important;
+	text-align: left !important;
 }
 .about h1 {
 	font-size: 2.5em;
