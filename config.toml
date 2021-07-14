@@ -120,10 +120,10 @@ url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
 [languages.en]
 languageName = ":uk:"
 
-# [[languages.en.menu.main]]
-# name = "About"
-# weight = 1
-# url = "about/"
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
 
 # [[languages.en.menu.main]]
 # name = "Blog"
