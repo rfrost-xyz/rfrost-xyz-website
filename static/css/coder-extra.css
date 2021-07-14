@@ -39,14 +39,24 @@ article p {
 	font-size: 1.4em !important;
 }
 
+
+pre,
+code {
+	background-color: #f0f0f0 !important;
+}
+
+
 body.colorscheme-dark {
     /* color: #dadada; */
     background-color: #0d1117;
 }
 
-body.colorscheme-dark .highlight pre {
+body.colorscheme-dark .highlight pre,
+body.colorscheme-dark code {
 	background-color: #141920 !important;
 }
+
+
 
 /* ----- Avatar ----- */
 .avatar img {
