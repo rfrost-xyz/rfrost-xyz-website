@@ -44,6 +44,10 @@ body.colorscheme-dark {
     background-color: #0d1117;
 }
 
+body.colorscheme-dark .highlight pre {
+	background-color: #141920 !important;
+}
+
 /* ----- Avatar ----- */
 .avatar img {
 	margin-bottom: 1rem;
