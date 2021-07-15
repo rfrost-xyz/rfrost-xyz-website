@@ -4,10 +4,9 @@ slug = "about"
 description = "Richard Frost - About"
 +++
 
-Technical 3D artist, with 17 years industry experience. Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, extremely motivated, conscientious, and a strong track record of delivering high-end solutions.
+Technical 3D artist, with 17 years industry experience. Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, extremely conscientious, motivated, and a strong track record of delivering high-end output.
 
 ## Profiency
-
 
 ### Game
 * Unreal Engine
