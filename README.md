@@ -2,6 +2,9 @@
 
 Source files for personal website/blog. Continuously deployed, and hosted at [https://rfrost.xyz](https://rfrost.xyz)
 
+[![Netlify][netlify-shield]][netlify]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 ## Usage
 
 ### Pre-requisites
@@ -26,7 +29,8 @@ Framework for automatic deployment to [Netlify](https://www.netlify.com) is [set
 
 This repository is maintained under the [Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+[netlify-shield]: https://img.shields.io/netlify/639fb7a9-1d1a-40b2-9286-1d2163e8965e
+[netlify]: https://app.netlify.com/sites/rfrost-xyz/deploys
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
