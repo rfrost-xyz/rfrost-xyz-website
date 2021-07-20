@@ -5,7 +5,7 @@ Source files for personal [website][website].
 [![Netlify][netlify-shield]][netlify]
 [![Monitor][website-status-shield]][website]
 [![CC BY-NC-SA 4.0][github-issues-shield]][github-issues]
-[![GitHub latest release][github-release-shield]][github-release]
+[![GitHub latest release][github-release-shield+]][github-release]
 [![GitHub repo size][github-repo-size-shield]][github-repo]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -39,4 +39,5 @@ This repository is maintained under the [Creative Commons Attribution - NonComme
 [github-issues]: https://github.com/rdfrost/rfrost-xyz/issues
 [github-issues-shield]: https://img.shields.io/github/issues/rdfrost/rfrost-xyz
 [github-release]: https://github.com/rdfrost/rfrost-xyz/releases/latest
-[github-release-shield]: https://img.shields.io/github/v/release/rdfrost/rfrost-xyz?include_prereleases
+[github-release-shield]: https://img.shields.io/github/v/release/rdfrost/rfrost-xyz?color=blue
+[github-release-shield+]: https://img.shields.io/github/v/release/rdfrost/rfrost-xyz?color=blue&include_prereleases
