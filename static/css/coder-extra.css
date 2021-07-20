@@ -155,45 +155,45 @@ img[alt=logo-nuke] {
 	background-position: center !important;
 }
 img[alt=logo-unreal-engine] {
-	background: url("../img/ue-black.svg");
+	background: url("../images/logo/ue-black.svg");
 }
 body.colorscheme-dark img[alt=logo-unreal-engine] {
-	background: url("../img/ue-white.svg");
+	background: url("../images/logo/ue-white.svg");
 }
 img[alt=logo-unity] {
-	background: url("../img/unity-black.svg");
+	background: url("../images/logo/unity-black.svg");
 }
 body.colorscheme-dark img[alt=logo-unity] {
-	background: url("../img/unity-white.svg");
+	background: url("../images/logo/unity-white.svg");
 }
 img[alt=logo-git] {
-	background: url("../img/git.svg");
+	background: url("../images/logo/git.svg");
 }
 img[alt=logo-python] {
-	background: url("../img/python.svg");
+	background: url("../images/logo/python.svg");
 }
 img[alt=logo-3dsmax] {
-	background: url("../img/3dsmax.svg");
+	background: url("../images/logo/3dsmax.svg");
 }
 img[alt=logo-blender] {
-	background: url("../img/blender.svg");
+	background: url("../images/logo/blender.svg");
 }
 img[alt=logo-substance-designer] {
-	background: url("../img/substance-designer.svg");
+	background: url("../images/logo/substance-designer.svg");
 }
 img[alt=logo-substance-painter] {
-	background: url("../img/substance-painter.svg");
+	background: url("../images/logo/substance-painter.svg");
 }
 img[alt=logo-substance-sampler] {
-	background: url("../img/substance-sampler.svg");
+	background: url("../images/logo/substance-sampler.svg");
 }
 img[alt=logo-premiere] {
-	background: url("../img/premiere.svg");
+	background: url("../images/logo/premiere.svg");
 }
 img[alt=logo-aftereffects] {
-	background: url("../img/aftereffects.svg");
+	background: url("../images/logo/aftereffects.svg");
 }
 img[alt=logo-nuke] {
 	margin: 0 !important;
-	background: url("../img/nuke.svg");
+	background: url("../images/logo/nuke.svg");
 }
