@@ -2,6 +2,11 @@
 publish = "public"
 command = "hugo --gc --minify"
 
+[context.production]
+  #publish = "output/"
+  #command = "make publish"
+  #environment = { GIT_LFS_ENABLED = = "true" }
+
 [context.production.environment]
 HUGO_VERSION = "0.84.3"
 HUGO_ENV = "production"
@@ -25,6 +30,3 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.84.3"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
