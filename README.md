@@ -1,6 +1,6 @@
-# rfrost-xyz
+# rfrost.xyz
 
-Source files for personal [website][website].
+Source files for [website][website].
 
 [![Netlify][netlify-shield]][netlify]
 [![Monitor][website-status-shield]][website]
