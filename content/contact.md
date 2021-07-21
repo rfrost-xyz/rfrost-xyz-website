@@ -6,7 +6,7 @@ description = "Richard Frost - Contact"
 
 I encourage you to send me your comments, if I don’t respond to your email, or do so only after an extended amount of time has passed, please don’t take it personally. Email is always welcome.
 
-* [Email](mailto:rf@rfrost.xyz)
+* [Email](mailto:web@rfrost.xyz?subject=Website%20enquiry)
 * [PGP Key](/A2B8544EC71193C1.asc)
 
 PGP Key Fingerprint:
