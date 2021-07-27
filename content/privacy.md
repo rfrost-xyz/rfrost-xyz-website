@@ -4,10 +4,6 @@ slug = "privacy"
 description = "Richard Frost - Privacy"
 +++
 
-The TLS certificate for HTTPS is provided by [Let's Encrypt](https://letsencrypt.org/). <!--To help monitor basic site usage through server logs, [Netlify Analytics](https://www.netlify.com/products/analytics/) are utilised, this service is fully [GDPR compliant](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/) and no data is shared with third parties.-->Throughout your use of this website the following apply:
+This site, in and of itself, does not track anything identifiable to you. This site gathers zero data about user usage. This site does not fingerprint your browser. This site explicitly refuses all cookies, be that first-party cookies, third-party cookies, persistent cookies, and session cookies. In any other form of civilized society, the tracking normalities to which we have all become accustomed, would be considered plain odd.
 
-* Identifiable user data is **explicitly not logged**.
-* First party cookies are **inactive**.
-* Persistent cookies are **inactive**.
-* Session cookies are **inactive**.
-* Third-party cookies are **inactive**.
+The TLS certificate for HTTPS is provided by [Let's Encrypt](https://letsencrypt.org/). Hosting is provided by [Netlify](#). The site is open-source, and maintained under [Creative Commons Attribution - NonCommercial - Share Alike license (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/). The canonical source for the site is stored on [GitHub](https://github.com/rdfrost/rfrost-xyz).
