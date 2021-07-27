@@ -197,3 +197,20 @@ img[alt=logo-nuke] {
 	margin: 0 !important;
 	background: url("../images/logo/nuke.svg");
 }
+
+
+
+
+
+
+
+.skill p {
+	display: inline;
+	padding: .2em .6em .3em;
+	white-space: nowrap;
+	border-radius: .3em;
+	background-color: transparent;
+	color: #42a5f5;;
+	border: 1px solid #42a5f5;;
+	font-size: 0.9em;
+}

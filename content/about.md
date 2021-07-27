@@ -19,3 +19,40 @@ Technical 3D artist, with 17 years industry experience. Contributing to many hig
 ![logo-premiere](../images/clear.svg)
 ![logo-aftereffects](../images/clear.svg)
 ![logo-nuke](../images/clear.svg)
+
+## Skills
+
+{{< skill "3D modelling" >}}
+
+## History
+
+
+
+Feb 2018 – May 2019
+Senior Visualisation Artist
+
+Pilbrow & Partners
+
+{{% timeline 
+organisation="Pilbrow & Partners"
+url="https://www.pilbrowandpartners.com/"
+position="Senior Visualisation Artist"
+date-from="Feb 2018"
+date-to="May 2019"
+body="Award winning architecture and urban design studio in Clerkenwell, London. Involved in multiple large scale townscape developments for very high profile clients throughout London, and abroad." %}}
+
+{{< timeline 
+organisation="Showgun Films"
+url="https://www.snowgumfilms.com/"
+position="Digital Compositor/Paint & Roto Artist"
+date-from="Apr 2012"
+date-to="Jun 2018"
+body="https://www.trollbridge.film/" >}}
+
+{{< timeline 
+organisation="Red + Gray"
+url="https://redandgray.co.uk/"
+position="Visualisation Artist"
+date-from="Apr 2004"
+date-to="Jun 2006"
+body="Visualisation studio producing marketing visualisations for multiple UK house builders. Collaborated with 20 person team producing visualisations for multiple house-builders, developers and architects." >}}
