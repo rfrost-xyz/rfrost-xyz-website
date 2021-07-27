@@ -14,5 +14,5 @@ In order to limit spam, the above email address may change without notice. If a 
 
 ## PGP
 
-* [PGP Key](/A2B8544EC71193C1.asc)
+* PGP Key: [`A2B8544EC71193C1`](/A2B8544EC71193C1.asc)
 * PGP fingerprint: `D9F3 D61D 58A9 5A26 ADFD C275 A2BB 544E C711 93C1`
