@@ -26,27 +26,24 @@ Technical 3D artist, with 17 years industry experience. Contributing to many hig
 
 ## History
 
-
-
-Feb 2018 – May 2019
-Senior Visualisation Artist
-
-Pilbrow & Partners
-
-{{% timeline 
+{{< timeline 
 organisation="Pilbrow & Partners"
 url="https://www.pilbrowandpartners.com/"
 position="Senior Visualisation Artist"
 date-from="Feb 2018"
 date-to="May 2019"
-body="Award winning architecture and urban design studio in Clerkenwell, London. Involved in multiple large scale townscape developments for very high profile clients throughout London, and abroad." %}}
+body="Award winning architecture and urban design studio in Clerkenwell, London. Involved in multiple large scale townscape developments for very high profile clients throughout London, and abroad."
+body="Created numerous project fly-throughs, walk-throughs and still shots. Produced in Max, V-Ray, Arnold, composited in Nuke."
+body="Spearheaded use of 32 bit shader reconstruction in Nuke, Substance, Cryptomatte, Forest Pack"
+body="Created realtime interactive environments with Unreal, Substance and Anima, output to VR headset."
+body="Utilised point cloud scans for photogrammetry and texture projection in Mari, for realistic scene capture." >}}
 
 {{< timeline 
 organisation="Showgun Films"
 url="https://www.snowgumfilms.com/"
 position="Digital Compositor/Paint & Roto Artist"
-date-from="Apr 2012"
-date-to="Jun 2018"
+date-from="Apr 2014"
+date-to="Jun 2017"
 body="https://www.trollbridge.film/" >}}
 
 {{< timeline 

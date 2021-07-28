@@ -2,5 +2,10 @@
 	<h3>{{.Get "position"}}</h3>
 	<h3>{{.Get "date-from"}} - {{.Get "date-to"}}</h3>
 	<p><a href="{{.Get "url"}}" target="_blank">{{.Get "organisation"}}</a></p>
-	<p>{{.Get "body"}}</p>
+	<ul>
+		{{ with .Get "body" }}
+			<li>{{ . }}</li>
+		{{ end }}
+	</ul>
+
 </div>
