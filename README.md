@@ -14,14 +14,23 @@ Source files for [website][website].
 ## Usage
 
 ### Pre-requisites
-* [Hugo](https://gohugo.io/getting-started/installing/) (0.84.3, or above)
+* [Hugo](https://gohugo.io/getting-started/installing/) (version 0.84.3, or above)
 
 ### Serve locally
-Once running, you will be able to preview the locally hosted version at [localhost:1313](http://localhost:1313/).
 
-```shell
-hugo serve
-```
+1. Clone the repository.
+2. Initialise sub-modules:
+   
+	```
+	git submodule init
+	git submodule update
+	```
+
+2. Build the site
+	```
+	hugo serve
+	```
+4. View the result at [localhost:1313](http://localhost:1313/)..
 
 ## License
 <!-- https://github.com/santisoler/cc-licenses -->
