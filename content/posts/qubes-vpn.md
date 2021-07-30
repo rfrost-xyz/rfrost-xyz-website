@@ -1,0 +1,24 @@
++++
+author = "Richard Frost"
+title = "Qubes VPN proxy with Mullvad"
+description = "A brief description of Hugo Shortcodes"
+date = "2021-06-29"
+tags = [
+    "foss",
+	"qubes",
+	"security"
+]
++++
+
+Qubes VPN proxy
+Link to support Qubes/Community article
+
+<!--more-->
+
+Content
+
+Micah Lee article
+https://github.com/rdfrost/qubes-user-docs/blob/master/docs/configuration/split-ssh.md
+
+Bonus:
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
