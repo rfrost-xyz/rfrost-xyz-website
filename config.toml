@@ -126,14 +126,14 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-# name = "Projects"
-# weight = 2
-# url = "projects/"
+name = "Projects"
+weight = 2
+url = "projects/"
 
 [[languages.en.menu.main]]
-# name = "Blog"
-# weight = 3
-# url = "posts/"
+name = "Blog"
+weight = 3
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact"
