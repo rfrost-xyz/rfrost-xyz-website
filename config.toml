@@ -90,7 +90,7 @@ stylesrc = [
 ]
 scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
 prefetchsrc = ["'self'"]
-# connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
+# connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSourceoverhand oval gazing impurity onboard
 connectsrc = ["'self'", "https://www.google-analytics.com"]
 
 [taxonomies]
