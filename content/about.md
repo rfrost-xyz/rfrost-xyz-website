@@ -135,7 +135,7 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 position="BA (Hons) 2:1, Interactive Multimedia"
 organisation="Staffordshire University"
 url="https://www.pilbrowandpartners.com/"
-location="Staffordhshire"
+location="Staffordshire"
 date-from="2001"
 date-to="2003" >}}
 
