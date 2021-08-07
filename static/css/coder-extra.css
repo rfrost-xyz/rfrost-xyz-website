@@ -147,24 +147,27 @@ img[alt=logo-substance-painter],
 img[alt=logo-substance-sampler],
 img[alt=logo-premiere],
 img[alt=logo-aftereffects],
-img[alt=logo-nuke] {
-	width: 58px;
-	margin: 0 10px 0 0;
-	background-size: 48px 48px !important;
+img[alt=logo-nuke],
+img[alt=logo-vray],
+img[alt=logo-forestpack],
+img[alt=logo-railclone],
+img[alt=logo-photoshop],
+img[alt=logo-github],
+img[alt=logo-rhino] {
+	width: 42px;
+	margin: 0 16px 0 0;
+	background-size: 42px 42px !important;
 	background-repeat: no-repeat !important;
 	background-position: center !important;
 }
+
+
+
 img[alt=logo-unreal-engine] {
-	background: url("../images/logo/ue-black.svg");
-}
-body.colorscheme-dark img[alt=logo-unreal-engine] {
-	background: url("../images/logo/ue-white.svg");
+	background: url("../images/logo/unreal-engine.svg");
 }
 img[alt=logo-unity] {
-	background: url("../images/logo/unity-black.svg");
-}
-body.colorscheme-dark img[alt=logo-unity] {
-	background: url("../images/logo/unity-white.svg");
+	background: url("../images/logo/unity.svg");
 }
 img[alt=logo-git] {
 	background: url("../images/logo/git.svg");
@@ -194,27 +197,33 @@ img[alt=logo-aftereffects] {
 	background: url("../images/logo/aftereffects.svg");
 }
 img[alt=logo-nuke] {
-	margin: 0 !important;
 	background: url("../images/logo/nuke.svg");
 }
-
-
-
-
-
-
-
-.skill p {
-	display: inline;
-	padding: .2em .6em .3em;
-	white-space: nowrap;
-	border-radius: .3em;
-	background-color: transparent;
-	color: #42a5f5;;
-	border: 1px solid #42a5f5;;
-	font-size: 0.9em;
+img[alt=logo-vray] {
+	background: url("../images/logo/v-ray.svg");
 }
-
+img[alt=logo-forestpack] {
+	background: url("../images/logo/forestpack.svg");
+}
+img[alt=logo-railclone] {
+	background: url("../images/logo/railclone.svg");
+}
+img[alt=logo-photoshop] {
+	background: url("../images/logo/photoshop.svg");
+}
+img[alt=logo-github] {
+	background: url("../images/logo/github.svg");
+}
+img[alt=logo-rhino] {
+	background: url("../images/logo/rhino.svg");
+}
+body.colorscheme-dark img[alt=logo-unreal-engine],
+body.colorscheme-dark img[alt=logo-unity],
+body.colorscheme-dark img[alt=logo-vray],
+body.colorscheme-dark img[alt=logo-rhino],
+body.colorscheme-dark img[alt=logo-github] {
+	filter: invert(100%) sepia(94%) saturate(24%) hue-rotate(57deg) brightness(105%) contrast(108%);
+}
 
 
 
