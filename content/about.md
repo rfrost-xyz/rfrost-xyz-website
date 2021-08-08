@@ -60,6 +60,7 @@ date-to="May 2019" >}}
 ![logo-railclone](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
 ![logo-substance-designer](../images/clear.svg)
+![logo-nuke](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
 ![logo-aftereffects](../images/clear.svg)
 
@@ -74,7 +75,7 @@ location="Remote"
 date-from="Apr 2014"
 date-to="Jan 2018" >}}
 
-[Troll Bridge: Short Film](https://www.trollbridge.film/)
+[Troll Bridge](https://www.trollbridge.film/) is a 28-minute community project short film based on the Discworld story originally published in After the King,  
 
 ![logo-nuke](../images/clear.svg)
 
@@ -96,9 +97,11 @@ date-to="Aug 2017" >}}
 * Integrated advanced Nuke compositing workflow to deliver large scale multi site phase outputs to developers on schedule.
 * Developed a library of procedural materials in Substance, for use in renders and realtime solutions for clients.
 
-![logo-blender](../images/clear.svg)
-![logo-nuke](../images/clear.svg)
+![logo-3dsmax](../images/clear.svg)
 ![logo-unreal-engine](../images/clear.svg)
+![logo-blender](../images/clear.svg)
+![logo-modo](../images/clear.svg)
+![logo-nuke](../images/clear.svg)
 ![logo-substance-designer](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
@@ -121,6 +124,7 @@ date-to="Oct 2011" >}}
 
 ![logo-3dsmax](../images/clear.svg)
 ![logo-vray](../images/clear.svg)
+![logo-modo](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
 
@@ -142,6 +146,7 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 ![logo-3dsmax](../images/clear.svg)
 ![logo-vray](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
+![logo-premiere](../images/clear.svg)
 
 {{< /timeline >}}
 
