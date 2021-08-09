@@ -4,11 +4,11 @@ slug = "about"
 description = "Richard Frost - About"
 +++
 
-Technical 3D artist, with 17 years industry experience. Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, extremely conscientious, motivated, and a strong track record of delivering high-end output.
+Technical 3D artist, with {{< professional-time >}} years industry experience. Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, extremely conscientious, motivated, and a strong track record of delivering high-end output.
 
 ## Experience
 
-{{< timeline
+<!-- {{< timeline
 organisation="Pilbrow & Partners"
 url="https://www.pilbrowandpartners.com/"
 position="Head of VR & AR"
@@ -35,7 +35,7 @@ date-to="Present" >}}
 ![logo-aftereffects](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
 
-{{< /timeline >}}
+{{< /timeline >}} -->
 
 
 {{< timeline
@@ -56,11 +56,13 @@ date-to="May 2019" >}}
 ![logo-3dsmax](../images/clear.svg)
 ![logo-vray](../images/clear.svg)
 ![logo-unreal-engine](../images/clear.svg)
+![logo-nuke](../images/clear.svg)
 ![logo-forestpack](../images/clear.svg)
 ![logo-railclone](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+![logo-blender](../images/clear.svg)
 ![logo-substance-designer](../images/clear.svg)
-![logo-nuke](../images/clear.svg)
+![logo-substance-painter](../images/clear.svg)
+![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
 ![logo-aftereffects](../images/clear.svg)
 
@@ -70,7 +72,7 @@ date-to="May 2019" >}}
 {{< timeline 
 organisation="Snowgum Films"
 url="https://www.snowgumfilms.com/"
-position="Digital Compositor/Paint & Roto Artist"
+position="Digital Compositor / Paint & Roto Artist"
 location="Remote"
 date-from="Apr 2014"
 date-to="Jan 2018" >}}
@@ -78,6 +80,7 @@ date-to="Jan 2018" >}}
 [Troll Bridge](https://www.trollbridge.film/) is a 28-minute community project short film based on the Discworld story originally published in After the King,  
 
 ![logo-nuke](../images/clear.svg)
+![logo-shotgrid](../images/clear.svg)
 
 {{< /timeline >}}
 
@@ -102,7 +105,9 @@ date-to="Aug 2017" >}}
 ![logo-blender](../images/clear.svg)
 ![logo-modo](../images/clear.svg)
 ![logo-nuke](../images/clear.svg)
+![logo-mari](../images/clear.svg)
 ![logo-substance-designer](../images/clear.svg)
+![logo-substance-painter](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
 
