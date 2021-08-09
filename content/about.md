@@ -160,7 +160,7 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 {{< timeline
 position="BA (Hons) 2:1, Interactive Multimedia"
 organisation="Staffordshire University"
-url="https://www.pilbrowandpartners.com/"
+url="https://www.staffs.ac.uk/"
 location="Staffordshire"
 date-from="2001"
 date-to="2003" >}}
