@@ -154,7 +154,9 @@ img[alt=logo-railclone],
 img[alt=logo-photoshop],
 img[alt=logo-github],
 img[alt=logo-rhino],
-img[alt=logo-modo] {
+img[alt=logo-modo],
+img[alt=logo-mari],
+img[alt=logo-shotgrid] {
 	width: 38px;
 	margin: 8px 16px 0 0;
 	background-size: 38px 38px !important;
@@ -221,11 +223,18 @@ img[alt=logo-rhino] {
 img[alt=logo-modo] {
 	background: url("../images/logo/modo.svg");
 }
+img[alt=logo-mari] {
+	background: url("../images/logo/mari.svg");
+}
+img[alt=logo-shotgrid] {
+	background: url("../images/logo/shotgrid.svg");
+}
 body.colorscheme-dark img[alt=logo-unreal-engine],
 body.colorscheme-dark img[alt=logo-unity],
 body.colorscheme-dark img[alt=logo-vray],
 body.colorscheme-dark img[alt=logo-rhino],
-body.colorscheme-dark img[alt=logo-github] {
+body.colorscheme-dark img[alt=logo-github],
+body.colorscheme-dark img[alt=logo-shotgrid] {
 	filter: invert(100%) sepia(94%) saturate(24%) hue-rotate(57deg) brightness(105%) contrast(108%);
 }
 
