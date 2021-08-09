@@ -235,6 +235,7 @@ body.colorscheme-dark img[alt=logo-vray],
 body.colorscheme-dark img[alt=logo-rhino],
 body.colorscheme-dark img[alt=logo-github],
 body.colorscheme-dark img[alt=logo-shotgrid] {
+	/* https://codepen.io/sosuke/pen/Pjoqqp */
 	filter: invert(100%) sepia(94%) saturate(24%) hue-rotate(57deg) brightness(105%) contrast(108%);
 }
 
