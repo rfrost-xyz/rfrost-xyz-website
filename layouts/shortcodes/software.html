@@ -1,0 +1,6 @@
+<div class="software {{ .Get 0 }}">
+	<p class="pipeline">
+		<span>{{ .Get 0 }}</span>
+		{{ .Inner | markdownify }}
+	</p>
+</div>
