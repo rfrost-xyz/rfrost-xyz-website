@@ -156,10 +156,11 @@ img[alt=logo-github],
 img[alt=logo-rhino],
 img[alt=logo-modo],
 img[alt=logo-mari],
+img[alt=logo-quixel-bridge],
 img[alt=logo-shotgrid] {
-	width: 38px;
-	margin: 8px 16px 0 0;
-	background-size: 38px 38px !important;
+	width: 36px;
+	margin: 5px 10px 0 0;
+	background-size: 36px 36px !important;
 	background-repeat: no-repeat !important;
 	background-position: center !important;
 }
@@ -226,6 +227,9 @@ img[alt=logo-modo] {
 img[alt=logo-mari] {
 	background: url("../images/logo/mari.svg");
 }
+img[alt=logo-quixel-bridge] {
+	background: url("../images/logo/quixel-bridge.svg");
+}
 img[alt=logo-shotgrid] {
 	background: url("../images/logo/shotgrid.svg");
 }
@@ -271,4 +275,24 @@ body.colorscheme-dark img[alt=logo-shotgrid] {
 }
 body.colorscheme-dark .timeline hr {
 	border-color: rgb(56, 56, 56) !important;
+}
+
+
+
+.software {
+	margin-left: 1.5em;
+}
+.software .pipeline {
+	margin: 0;
+	line-height: 1em;
+}
+.software * span {
+	text-transform: uppercase;
+	width: 7.5em;
+	display: inline-block;
+	top: -0.5em;
+	position: relative;
+	font-weight: bold;
+	font-size: 0.8em;
+	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif;
 }
