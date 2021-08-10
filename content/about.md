@@ -53,20 +53,44 @@ date-to="May 2019" >}}
 * Created realtime interactive environments with Unreal, Substance and Anima, output to VR headset.
 * Utilised point cloud scans for photogrammetry and texture projection in Mari, for realistic scene capture.
 
-![logo-3dsmax](../images/clear.svg)
-![logo-vray](../images/clear.svg)
+{{< /timeline >}}
+
+{{< software Engine >}}
 ![logo-unreal-engine](../images/clear.svg)
-![logo-nuke](../images/clear.svg)
+{{< /software >}}
+
+{{< software Modelling >}}
+![logo-3dsmax](../images/clear.svg)
 ![logo-forestpack](../images/clear.svg)
 ![logo-railclone](../images/clear.svg)
+![logo-rhino](../images/clear.svg)
 ![logo-blender](../images/clear.svg)
+{{< /software >}}
+
+{{< software Texture >}}
 ![logo-substance-designer](../images/clear.svg)
 ![logo-substance-painter](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+![logo-substance-sampler](../images/clear.svg)
+![logo-quixel-bridge](../images/clear.svg)
+{{< /software >}}
+
+{{< software Render >}}
+![logo-vray](../images/clear.svg)
+![logo-unreal-engine](../images/clear.svg)
+{{< /software >}}
+
+{{< software Comp >}}
+![logo-nuke](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
 ![logo-aftereffects](../images/clear.svg)
+![logo-photoshop](../images/clear.svg)
+{{< /software >}}
 
-{{< /timeline >}}
+{{< software SCM >}}
+![logo-git](../images/clear.svg)
+{{< /software >}}
+
+{{< timeline-close >}}
 
 
 {{< timeline 
@@ -77,12 +101,19 @@ location="Remote"
 date-from="Apr 2014"
 date-to="Jan 2018" >}}
 
-[Troll Bridge](https://www.trollbridge.film/) is a 28-minute community project short film based on the Discworld story originally published in After the King,  
-
-![logo-nuke](../images/clear.svg)
-![logo-shotgrid](../images/clear.svg)
+[Troll Bridge](https://www.trollbridge.film/) is a 28-minute short film based on the Discworld story originally published in After the King, produced by a community of worldwide artists.
 
 {{< /timeline >}}
+
+{{< software Comp >}}
+![logo-nuke](../images/clear.svg)
+{{< /software >}}
+
+{{< software Project >}}
+![logo-shotgrid](../images/clear.svg)
+{{< /software >}}
+
+{{< timeline-close >}}
 
 
 {{< timeline 
@@ -100,18 +131,41 @@ date-to="Aug 2017" >}}
 * Integrated advanced Nuke compositing workflow to deliver large scale multi site phase outputs to developers on schedule.
 * Developed a library of procedural materials in Substance, for use in renders and realtime solutions for clients.
 
-![logo-3dsmax](../images/clear.svg)
+{{< /timeline >}}
+
+{{< software Engine >}}
 ![logo-unreal-engine](../images/clear.svg)
-![logo-blender](../images/clear.svg)
+![logo-unity](../images/clear.svg)
+{{< /software >}}
+
+{{< software Modelling >}}
+![logo-3dsmax](../images/clear.svg)
 ![logo-modo](../images/clear.svg)
-![logo-nuke](../images/clear.svg)
-![logo-mari](../images/clear.svg)
+{{< /software >}}
+
+{{< software Texture >}}
 ![logo-substance-designer](../images/clear.svg)
 ![logo-substance-painter](../images/clear.svg)
+![logo-mari](../images/clear.svg)
+{{< /software >}}
+
+{{< software Render >}}
+![logo-vray](../images/clear.svg)
+![logo-unreal-engine](../images/clear.svg)
+{{< /software >}}
+
+{{< software Comp >}}
+![logo-nuke](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
+{{< /software >}}
 
-{{< /timeline >}}
+{{< software SCM >}}
+![logo-git](../images/clear.svg)
+![logo-github](../images/clear.svg)
+{{< /software >}}
+
+{{< timeline-close >}}
 
 
 {{< timeline 
@@ -127,13 +181,27 @@ date-to="Oct 2011" >}}
 * Assisted building development through multiple stages of design and build imagery and animation, working in close collaboration with practice architects.
 * Created both final marketing visualisations for use in sales, and photo-montage for assistance with planning submissions.
 
+{{< /timeline >}}
+
+{{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg)
-![logo-vray](../images/clear.svg)
 ![logo-modo](../images/clear.svg)
+{{< /software >}}
+
+{{< software Texture >}}
+![logo-photoshop](../images/clear.svg)
+{{< /software >}}
+
+{{< software Render >}}
+![logo-vray](../images/clear.svg)
+{{< /software >}}
+
+{{< software Comp >}}
 ![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
+{{< /software >}}
 
-{{< /timeline >}}
+{{< timeline-close >}}
 
 
 {{< timeline 
@@ -148,12 +216,26 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 * Visualisation studio producing marketing visualisations for multiple UK house builders.
 * Collaborated with 20 person team producing visualisations for multiple house-builders, developers and architects.
 
+{{< /timeline >}}
+
+{{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg)
+{{< /software >}}
+
+{{< software Texture >}}
+![logo-photoshop](../images/clear.svg)
+{{< /software >}}
+
+{{< software Render >}}
 ![logo-vray](../images/clear.svg)
+{{< /software >}}
+
+{{< software Comp >}}
 ![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
+{{< /software >}}
 
-{{< /timeline >}}
+{{< timeline-close >}}
 
 ## Education
 
