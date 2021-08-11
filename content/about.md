@@ -109,33 +109,33 @@ date-to="May 2019" >}}
 {{< /software >}}
 
 {{< software Texture >}}
-![logo-substance-designer](../images/clear.svg)
-![logo-substance-painter](../images/clear.svg)
-![logo-substance-sampler](../images/clear.svg)
+![logo-substance-designer](../images/clear.svg "Substance 3D Designer")
+![logo-substance-painter](../images/clear.svg "Substance 3D Painter")
+![logo-substance-sampler](../images/clear.svg "Substance 3D Sampler")
 {{< /software >}}
 
 {{< software Engine >}}
-![logo-unreal-engine](../images/clear.svg)
+![logo-unreal-engine](../images/clear.svg "Unreal Engine")
 {{< /software >}}
 
 {{< software Dev >}}
-![logo-vs-2019](../images/clear.svg)
-![logo-nvim](../images/clear.svg)
+![logo-vs-2019](../images/clear.svg "Visual Studio")
+![logo-nvim](../images/clear.svg "Neovim")
 {{< /software >}}
 
 {{< software Language >}}
-![logo-python](../images/clear.svg)
-![logo-powershell](../images/clear.svg)
+![logo-python](../images/clear.svg "Python")
+![logo-powershell](../images/clear.svg "Powershell")
 {{< /software >}}
 
 {{< software Render >}}
-![logo-vray](../images/clear.svg)
+![logo-vray](../images/clear.svg "V-Ray")
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-premiere](../images/clear.svg)
-![logo-aftereffects](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+![logo-premiere](../images/clear.svg "Premiere Pro")
+![logo-aftereffects](../images/clear.svg "After Effects")
+![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -154,11 +154,11 @@ date-to="Jan 2018" >}}
 {{< /timeline >}}
 
 {{< software Comp >}}
-![logo-nuke](../images/clear.svg)
+![logo-nuke](../images/clear.svg "Nuke")
 {{< /software >}}
 
 {{< software Project >}}
-![logo-shotgrid](../images/clear.svg)
+![logo-shotgrid](../images/clear.svg "ShotGrid")
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -182,34 +182,34 @@ date-to="Aug 2017" >}}
 {{< /timeline >}}
 
 {{< software Modelling >}}
-![logo-3dsmax](../images/clear.svg)
-![logo-modo](../images/clear.svg)
+![logo-3dsmax](../images/clear.svg "3DS Max")
+![logo-modo](../images/clear.svg "Modo")
 {{< /software >}}
 
 {{< software Texture >}}
-![logo-substance-designer](../images/clear.svg)
-![logo-substance-painter](../images/clear.svg)
-![logo-mari](../images/clear.svg)
+![logo-substance-designer](../images/clear.svg "Substance 3D Designer")
+![logo-substance-painter](../images/clear.svg "Substance 3D Painter")
+![logo-mari](../images/clear.svg "Mari")
 {{< /software >}}
 
 {{< software Engine >}}
-![logo-unreal-engine](../images/clear.svg)
-![logo-unity](../images/clear.svg)
+![logo-unreal-engine](../images/clear.svg "Unreal Engine")
+![logo-unity](../images/clear.svg "Unity")
 {{< /software >}}
 
 {{< software Dev >}}
-![logo-vs-2019](../images/clear.svg)
-![logo-nvim](../images/clear.svg)
+![logo-vs-code](../images/clear.svg "Visual Studio Code")
+![logo-nvim](../images/clear.svg "Neovim")
 {{< /software >}}
 
 {{< software Render >}}
-![logo-vray](../images/clear.svg)
+![logo-vray](../images/clear.svg "V-Ray")
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-nuke](../images/clear.svg)
-![logo-premiere](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+![logo-nuke](../images/clear.svg "Nuke")
+![logo-premiere](../images/clear.svg "Premiere Pro")
+![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -231,12 +231,12 @@ date-to="Oct 2011" >}}
 {{< /timeline >}}
 
 {{< software Modelling >}}
-![logo-3dsmax](../images/clear.svg)
-![logo-modo](../images/clear.svg)
+![logo-3dsmax](../images/clear.svg "3DS Max")
+![logo-modo](../images/clear.svg "Modo")
 {{< /software >}}
 
 {{< software Texture >}}
-![logo-photoshop](../images/clear.svg)
+![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
 {{< software Dev >}}
@@ -244,12 +244,12 @@ date-to="Oct 2011" >}}
 {{< /software >}}
 
 {{< software Render >}}
-![logo-vray](../images/clear.svg)
+![logo-vray](../images/clear.svg "V-Ray")
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-premiere](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+![logo-premiere](../images/clear.svg "Premiere Pro")
+![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -270,21 +270,21 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 {{< /timeline >}}
 
 {{< software Modelling >}}
-![logo-3dsmax](../images/clear.svg)
+![logo-3dsmax](../images/clear.svg "3DS Max")
 {{< /software >}}
 
 {{< software Texture >}}
-![logo-photoshop](../images/clear.svg)
+![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
 {{< software Render >}}
-![logo-vray](../images/clear.svg)
-![logo-brazil-rs](../images/clear.svg)
+![logo-vray](../images/clear.svg "V-Ray")
+![logo-brazil-rs](../images/clear.svg "Brazil R/S")
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-premiere](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+![logo-premiere](../images/clear.svg "Premiere Pro")
+![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
 {{< timeline-close >}}
