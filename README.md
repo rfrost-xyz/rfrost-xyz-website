@@ -30,7 +30,7 @@ Source files for [website][website].
 	```
 	hugo serve
 	```
-4. View the result at [localhost:1313](http://localhost:1313/)..
+4. View the result at [localhost:1313](http://localhost:1313/).
 
 ## License
 <!-- https://github.com/santisoler/cc-licenses -->
