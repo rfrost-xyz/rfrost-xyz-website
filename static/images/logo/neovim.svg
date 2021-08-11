@@ -1,0 +1,25 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="http://www.bohemiancoding.com/sketch/ns" version="1.1">
+ <title>neovim-logo@2x</title>Created with Sketch (http://www.bohemiancoding.com/sketch)
+ <defs>
+  <linearGradient id="linearGradient-1" y2="100%" x2="50%" y1="0%" x1="50%">
+   <stop offset="0%" stop-opacity="0.80024" stop-color="#16B0ED"/>
+   <stop offset="100%" stop-opacity="0.837" stop-color="#0F59B2"/>
+  </linearGradient>
+  <linearGradient id="linearGradient-3" y2="100%" x2="50%" y1="0%" x1="50%">
+   <stop offset="0%" stop-opacity="0.8" stop-color="#88C649"/>
+   <stop offset="100%" stop-opacity="0.84" stop-color="#439240"/>
+  </linearGradient>
+  <linearGradient id="svg_1" y2="100%" x2="NaN" y1="0%" x1="NaN">
+   <stop offset="0%" stop-color="#7DB643"/>
+   <stop offset="100%" stop-color="#367533"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g  id="mark">
+   <path  fill="url(#linearGradient-1)" id="Left---green" d="m6.04798,14.05576l13.4092,-13.53826l0,62.94838l-13.4092,-13.3819l0,-36.02822z"/>
+   <path  fill="url(#svg_1)" id="Right---blue" d="m57.86018,14.18358l-13.59288,-13.65877l0.27553,62.94107l13.4092,-13.3819l-0.09185,-35.90041z"/>
+   <path  fill="url(#linearGradient-3)" id="Cross---blue" d="m19.44823,0.52827l34.86251,53.19889l-9.75558,9.75534l-34.88075,-53.08113l9.77383,-9.87309z"/>
+   <path  fill="#000000" fill-opacity="0.13" id="Shadow" d="m19.46023,25.20333l-0.01854,2.09535l-10.76396,-15.89128l0.99668,-1.01531l9.78582,14.81124z"/>
+  </g>
+ </g></svg>
