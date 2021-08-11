@@ -16,6 +16,7 @@
 h1, h2, h3, h4, h5, h6 {
 	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif;
 	color: #333333;
+	font-weight: normal;
 }
 body {
 	font-family: AndSuisse-Light, Arial, Helvetica, sans-serif;
@@ -149,6 +150,7 @@ img[alt=logo-premiere],
 img[alt=logo-aftereffects],
 img[alt=logo-nuke],
 img[alt=logo-vray],
+img[alt=logo-brazil-rs],
 img[alt=logo-forestpack],
 img[alt=logo-railclone],
 img[alt=logo-photoshop],
@@ -157,6 +159,16 @@ img[alt=logo-rhino],
 img[alt=logo-modo],
 img[alt=logo-mari],
 img[alt=logo-quixel-bridge],
+img[alt=logo-vs-code],
+img[alt=logo-vs-2019],
+img[alt=logo-nvim],
+img[alt=logo-vim],
+img[alt=logo-powershell],
+img[alt=logo-cpp],
+img[alt=logo-anima],
+img[alt=logo-speedtree],
+img[alt=logo-cesium],
+img[alt=logo-qgis],
 img[alt=logo-shotgrid] {
 	width: 36px;
 	margin: 5px 10px 0 0;
@@ -206,6 +218,9 @@ img[alt=logo-nuke] {
 img[alt=logo-vray] {
 	background: url("../images/logo/v-ray.svg");
 }
+img[alt=logo-brazil-rs] {
+	background: url("../images/logo/brazil-rs.svg");
+}
 img[alt=logo-forestpack] {
 	background: url("../images/logo/forestpack.svg");
 }
@@ -229,6 +244,36 @@ img[alt=logo-mari] {
 }
 img[alt=logo-quixel-bridge] {
 	background: url("../images/logo/quixel-bridge.svg");
+}
+img[alt=logo-vs-code] {
+	background: url("../images/logo/visual-studio-code.svg");
+}
+img[alt=logo-vs-2019] {
+	background: url("../images/logo/visual-studio-2019.svg");
+}
+img[alt=logo-nvim] {
+	background: url("../images/logo/neovim.svg");
+}
+img[alt=logo-vim] {
+	background: url("../images/logo/vim.svg");
+}
+img[alt=logo-powershell] {
+	background: url("../images/logo/powershell.svg");
+}
+img[alt=logo-cpp] {
+	background: url("../images/logo/cpp.svg");
+}
+img[alt=logo-anima] {
+	background: url("../images/logo/anima.svg");
+}
+img[alt=logo-speedtree] {
+	background: url("../images/logo/speedtree.svg");
+}
+img[alt=logo-cesium] {
+	background: url("../images/logo/cesium.svg");
+}
+img[alt=logo-qgis] {
+	background: url("../images/logo/qgis.svg");
 }
 img[alt=logo-shotgrid] {
 	background: url("../images/logo/shotgrid.svg");
@@ -290,9 +335,9 @@ body.colorscheme-dark .timeline hr {
 	text-transform: uppercase;
 	width: 7.5em;
 	display: inline-block;
-	top: -0.5em;
+	top: -0.8em;
 	position: relative;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 0.8em;
 	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif;
 }

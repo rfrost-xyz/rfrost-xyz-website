@@ -8,7 +8,7 @@ Technical 3D artist, with {{< professional-time >}} years industry experience. C
 
 ## Experience
 
-<!-- {{< timeline
+{{< timeline
 organisation="Pilbrow & Partners"
 url="https://www.pilbrowandpartners.com/"
 position="Head of VR & AR"
@@ -23,19 +23,61 @@ date-to="Present" >}}
 * Created realtime interactive environments with Unreal, Substance and Anima, output to VR headset.
 * Utilised point cloud scans for photogrammetry and texture projection in Mari, for realistic scene capture.
 
-![logo-unreal-engine](../images/clear.svg)
-![logo-git](../images/clear.svg)
-![logo-python](../images/clear.svg)
-![logo-3dsmax](../images/clear.svg)
-![logo-forestpack](../images/clear.svg)
-![logo-railclone](../images/clear.svg)
-![logo-blender](../images/clear.svg)
-![logo-substance-designer](../images/clear.svg)
-![logo-premiere](../images/clear.svg)
-![logo-aftereffects](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
+{{< /timeline >}}
 
-{{< /timeline >}} -->
+{{< software Modelling >}}
+![logo-3dsmax](../images/clear.svg "3DS Max")
+![logo-blender](../images/clear.svg "Blender")
+![logo-rhino](../images/clear.svg "Rhino")
+{{< /software >}}
+
+{{< software Plugin >}}
+![logo-forestpack](../images/clear.svg "Forest Pack")
+![logo-railclone](../images/clear.svg "Railclone")
+![logo-anima](../images/clear.svg "Anima")
+![logo-speedtree](../images/clear.svg "SpeedTree")
+{{< /software >}}
+
+{{< software Texture >}}
+![logo-substance-designer](../images/clear.svg "Substance 3D Designer")
+![logo-substance-painter](../images/clear.svg "Substance 3D Painter")
+![logo-substance-sampler](../images/clear.svg "Substance 3D Sampler")
+![logo-quixel-bridge](../images/clear.svg "Quixel Bridge")
+{{< /software >}}
+
+{{< software Engine >}}
+![logo-unreal-engine](../images/clear.svg "Unreal Engine")
+{{< /software >}}
+
+{{< software Dev >}}
+![logo-vs-2019](../images/clear.svg "Visual Studio")
+![logo-vs-code](../images/clear.svg "Visual Studio Code")
+![logo-nvim](../images/clear.svg "Neovim")
+{{< /software >}}
+
+{{< software Language >}}
+![logo-cpp](../images/clear.svg "C++")
+![logo-python](../images/clear.svg "Python")
+![logo-powershell](../images/clear.svg "Powershell")
+{{< /software >}}
+
+{{< software SCM >}}
+![logo-git](../images/clear.svg "Git")
+![logo-github](../images/clear.svg "GitHub")
+{{< /software >}}
+
+{{< software GIS >}}
+![logo-qgis](../images/clear.svg "QGIS")
+![logo-cesium](../images/clear.svg "Cesium")
+{{< /software >}}
+
+{{< software Comp >}}
+![logo-premiere](../images/clear.svg "Premiere Pro")
+![logo-aftereffects](../images/clear.svg "After Effects")
+![logo-photoshop](../images/clear.svg "Photoshop")
+{{< /software >}}
+
+{{< timeline-close >}}
 
 
 {{< timeline
@@ -55,39 +97,45 @@ date-to="May 2019" >}}
 
 {{< /timeline >}}
 
-{{< software Engine >}}
-![logo-unreal-engine](../images/clear.svg)
+{{< software Modelling >}}
+![logo-3dsmax](../images/clear.svg "3DS Max")
+![logo-blender](../images/clear.svg "Blender")
 {{< /software >}}
 
-{{< software Modelling >}}
-![logo-3dsmax](../images/clear.svg)
-![logo-forestpack](../images/clear.svg)
-![logo-railclone](../images/clear.svg)
-![logo-rhino](../images/clear.svg)
-![logo-blender](../images/clear.svg)
+{{< software Plugin >}}
+![logo-forestpack](../images/clear.svg "Forest Pack")
+![logo-railclone](../images/clear.svg "Railclone")
+![logo-anima](../images/clear.svg "Anima")
 {{< /software >}}
 
 {{< software Texture >}}
 ![logo-substance-designer](../images/clear.svg)
 ![logo-substance-painter](../images/clear.svg)
 ![logo-substance-sampler](../images/clear.svg)
-![logo-quixel-bridge](../images/clear.svg)
+{{< /software >}}
+
+{{< software Engine >}}
+![logo-unreal-engine](../images/clear.svg)
+{{< /software >}}
+
+{{< software Dev >}}
+![logo-vs-2019](../images/clear.svg)
+![logo-nvim](../images/clear.svg)
+{{< /software >}}
+
+{{< software Language >}}
+![logo-python](../images/clear.svg)
+![logo-powershell](../images/clear.svg)
 {{< /software >}}
 
 {{< software Render >}}
 ![logo-vray](../images/clear.svg)
-![logo-unreal-engine](../images/clear.svg)
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-nuke](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
 ![logo-aftereffects](../images/clear.svg)
 ![logo-photoshop](../images/clear.svg)
-{{< /software >}}
-
-{{< software SCM >}}
-![logo-git](../images/clear.svg)
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -133,11 +181,6 @@ date-to="Aug 2017" >}}
 
 {{< /timeline >}}
 
-{{< software Engine >}}
-![logo-unreal-engine](../images/clear.svg)
-![logo-unity](../images/clear.svg)
-{{< /software >}}
-
 {{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg)
 ![logo-modo](../images/clear.svg)
@@ -149,20 +192,24 @@ date-to="Aug 2017" >}}
 ![logo-mari](../images/clear.svg)
 {{< /software >}}
 
+{{< software Engine >}}
+![logo-unreal-engine](../images/clear.svg)
+![logo-unity](../images/clear.svg)
+{{< /software >}}
+
+{{< software Dev >}}
+![logo-vs-2019](../images/clear.svg)
+![logo-nvim](../images/clear.svg)
+{{< /software >}}
+
 {{< software Render >}}
 ![logo-vray](../images/clear.svg)
-![logo-unreal-engine](../images/clear.svg)
 {{< /software >}}
 
 {{< software Comp >}}
 ![logo-nuke](../images/clear.svg)
-![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
-{{< /software >}}
-
-{{< software SCM >}}
-![logo-git](../images/clear.svg)
-![logo-github](../images/clear.svg)
+![logo-photoshop](../images/clear.svg)
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -192,13 +239,17 @@ date-to="Oct 2011" >}}
 ![logo-photoshop](../images/clear.svg)
 {{< /software >}}
 
+{{< software Dev >}}
+![logo-vim](../images/clear.svg "Vim")
+{{< /software >}}
+
 {{< software Render >}}
 ![logo-vray](../images/clear.svg)
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
+![logo-photoshop](../images/clear.svg)
 {{< /software >}}
 
 {{< timeline-close >}}
@@ -228,11 +279,12 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 
 {{< software Render >}}
 ![logo-vray](../images/clear.svg)
+![logo-brazil-rs](../images/clear.svg)
 {{< /software >}}
 
 {{< software Comp >}}
-![logo-photoshop](../images/clear.svg)
 ![logo-premiere](../images/clear.svg)
+![logo-photoshop](../images/clear.svg)
 {{< /software >}}
 
 {{< timeline-close >}}
