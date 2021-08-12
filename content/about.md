@@ -4,26 +4,23 @@ slug = "about"
 description = "Richard Frost - About"
 +++
 
-Technical 3D artist, with {{< professional-time >}} years industry experience. Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, extremely conscientious, motivated, and a strong track record of delivering high-end output.
+{{< title-pos >}} at {{< title-org >}}, with {{< professional-time >}} years industry experience. Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, extremely conscientious, motivated, with a track record of delivering high-end output.
 
 ## Experience
 
 {{< timeline
 organisation="Pilbrow & Partners"
 url="https://www.pilbrowandpartners.com/"
-position="Head of VR & AR"
+position="Head of Interactive & Immersive"
 location="London"
 date-from="May 2019"
 date-to="Present" >}}
 
 * Award winning architecture and urban design studio with a team of around 70 staff.
-* Involved in multiple large scale townscape developments for very high profile clients throughout London, and abroad.
-* Created numerous project fly-throughs, walk-throughs and still shots. Produced in Max, V-Ray, Arnold, composited in Nuke.
-* Spearheaded use of 32 bit shader reconstruction in Nuke, Substance, Cryptomatte, Forest Pack.
-* Created realtime interactive environments with Unreal, Substance and Anima, output to VR headset.
-* Utilised point cloud scans for photogrammetry and texture projection in Mari, for realistic scene capture.
 
 {{< /timeline >}}
+
+{{< software-intro >}}
 
 {{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg "3DS Max")
@@ -88,7 +85,6 @@ location="London"
 date-from="Feb 2018"
 date-to="May 2019" >}}
 
-* Award winning architecture and urban design studio with a team of around 70 staff.
 * Involved in multiple large scale townscape developments for very high profile clients throughout London, and abroad.
 * Created numerous project fly-throughs, walk-throughs and still shots. Produced in Max, V-Ray, Arnold, composited in Nuke.
 * Spearheaded use of 32 bit shader reconstruction in Nuke, Substance, Cryptomatte, Forest Pack.
@@ -96,6 +92,8 @@ date-to="May 2019" >}}
 * Utilised point cloud scans for photogrammetry and texture projection in Mari, for realistic scene capture.
 
 {{< /timeline >}}
+
+{{< software-intro >}}
 
 {{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg "3DS Max")
@@ -149,9 +147,13 @@ location="Remote"
 date-from="Apr 2014"
 date-to="Jan 2018" >}}
 
-[Troll Bridge](https://www.trollbridge.film/) is a 28-minute short film based on the Discworld story originally published in After the King, produced by a community of worldwide artists.
+* Produced multiple shots for [Troll Bridge](https://www.trollbridge.film/), a 28-minute short film direct by Daniel Knight, based on the Discworld story originally published in After the King.
+* Work predominantly included large amounts of paint work, head replacement for horse and actor replacement for Troll (Micah).
+* Significant amount of matte creation, resolving challenging issues through elaborate node networks, in order to retain wiry hair integrity over CG backplates.
 
 {{< /timeline >}}
+
+{{< software-intro >}}
 
 {{< software Comp >}}
 ![logo-nuke](../images/clear.svg "Nuke")
@@ -160,6 +162,14 @@ date-to="Jan 2018" >}}
 {{< software Project >}}
 ![logo-shotgrid](../images/clear.svg "ShotGrid")
 {{< /software >}}
+
+{{< activity >}}
+* Roto
+* Paint
+* Actor Replacement
+* Camera Correction
+* Grading
+{{< /activity >}}
 
 {{< timeline-close >}}
 
@@ -172,14 +182,16 @@ location="Remote"
 date-from="Oct 2011"
 date-to="Aug 2017" >}}
 
-* Visualisation studio producing marketing visualisations for multiple UK house builders. Collaborated with 20 person team producing visualisations for multiple house-builders, developers and architects.
-* Responsible for running all aspects of Zing Studios Ltd.2004 
-* Produced high quality multi-stage architectural visualisations, creating visualisations to assist with design and build, assistance with planning, and marketing imagery.
-* Handled all client relations. Coordinated, managed and scheduled sub-contractors.
-* Integrated advanced Nuke compositing workflow to deliver large scale multi site phase outputs to developers on schedule.
-* Developed a library of procedural materials in Substance, for use in renders and realtime solutions for clients.
+* Visualisation studio producing marketing imagery and animations for house-builders, developers and architects.
+* Produced high quality multi-stage architectural visualisations to assist with design and build, assistance with planning, and marketing imagery.
+* Handled all client relations. Coordinated and managed sub-contractors.
+* Developed custom library of procedural materials through Substance 3D Designer.
+* Utilised Nuke to composite images and animations in an efficient manner.
+* Developed applications in Unreal Engine, for developers to display site information in sales suites.
 
 {{< /timeline >}}
+
+{{< software-intro >}}
 
 {{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg "3DS Max")
@@ -212,6 +224,24 @@ date-to="Aug 2017" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+{{< activity >}}
+* 3D Modelling
+* UV Mapping
+* Texturing
+* Substance Graph
+* Lighting
+* Layout
+* Rigging
+* Animation
+* Blueprint
+* Sequence
+* Rendering
+* Linear Workflow
+* Cryptomatte
+* Comp
+* Grading
+{{< /activity >}}
+
 {{< timeline-close >}}
 
 
@@ -224,11 +254,14 @@ date-from="Jun 2006"
 date-to="Oct 2011" >}}
 
 * Award winning multi-disciplinary architecture practice based in Birmingham, merged with Corstorphine + Wright in 2014.
-* Lead development of visualisations across multiple sectors including: commercial, conservation, education, hospitality, residential, and retail.
+* Lead development of visualisation production across multiple sectors including: commercial, conservation, education, hospitality, residential, and retail.
 * Assisted building development through multiple stages of design and build imagery and animation, working in close collaboration with practice architects.
-* Created both final marketing visualisations for use in sales, and photo-montage for assistance with planning submissions.
+* Tenure in position pre-dated modern CAD and BIM techniques, requiring all geometry to be modelled from scratch through reference drawings, necessitating a thorough understanding of efficient modelling techniques.
+* Produced final marketing visualisations for use in sales, and photo-montages at various stages of the design process.
 
 {{< /timeline >}}
+
+{{< software-intro >}}
 
 {{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg "3DS Max")
@@ -252,6 +285,20 @@ date-to="Oct 2011" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+{{< activity >}}
+* 3D Modelling
+* UV Mapping
+* Texturing
+* Lighting
+* Layout
+* Rigging
+* Animation
+* Sequence
+* Rendering
+* Comp
+* Grading
+{{< /activity >}}
+
 {{< timeline-close >}}
 
 
@@ -261,13 +308,15 @@ url="https://redandgray.co.uk/"
 position="Visualisation Artist"
 location="Staffordshire"
 date-from="Apr 2004"
-date-to="Jun 2006"
-body="Visualisation studio producing marketing visualisations for multiple UK house builders. Collaborated with 20 person team producing visualisations for multiple house-builders, developers and architects." >}}
+date-to="Jun 2006" >}}
 
-* Visualisation studio producing marketing visualisations for multiple UK house builders.
-* Collaborated with 20 person team producing visualisations for multiple house-builders, developers and architects.
+* Visualisation studio producing marketing imagery and animations for architects and developers, collaborating with a 20 person team of visualisers,.
+* Tenure in position pre-dated modern CAD and BIM techniques, requiring all geometry to be modelled from scratch through reference drawings, necessitating a thorough understanding of efficient modelling techniques.
+* Experience in position provided a solid foundation to industry methodologies, from inception through to completion.
 
 {{< /timeline >}}
+
+{{< software-intro >}}
 
 {{< software Modelling >}}
 ![logo-3dsmax](../images/clear.svg "3DS Max")
@@ -286,6 +335,20 @@ body="Visualisation studio producing marketing visualisations for multiple UK ho
 ![logo-premiere](../images/clear.svg "Premiere Pro")
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
+
+{{< activity >}}
+* 3D Modelling
+* UV Mapping
+* Texturing
+* Lighting
+* Layout
+* Rigging
+* Animation
+* Sequence
+* Rendering
+* Comp
+* Grading
+{{< /activity >}}
 
 {{< timeline-close >}}
 

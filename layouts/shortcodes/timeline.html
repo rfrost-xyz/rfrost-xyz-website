@@ -1,8 +1,9 @@
 <div class="timeline">
-	<h3 class="position">{{.Get "position"}}</h3>
+	<h3 id="{{.Get "organisation"}}" class="position">{{.Get "position"}}</h3>
 	<p class="detail">
 		<span class="organisation"><a href="{{.Get "url"}}" target="_blank">{{.Get "organisation"}}</a></span> &middot;
 		<span class="location">{{.Get "location"}}</span>  &middot; 
 		<span class="date">{{.Get "date-from"}} &ndash; {{.Get "date-to"}}</span>
 	</p>
+	<h4>Summary</h4>
 	{{ .Inner | markdownify }}

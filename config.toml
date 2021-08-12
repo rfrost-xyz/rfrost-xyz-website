@@ -13,9 +13,13 @@ enableEmoji = true
 
 [params]
 author = "Richard Frost"
-description = "Head of VR and AR at Pilbrow & Partners"
+description = "Head of Interactive & Immersive at Pilbrow & Partners"
 keywords = "blog,developer,personal"
-info = ['Head of VR and AR at Pilbrow & Partners']
+info = ['Head of Interactive & Immersive at Pilbrow & Partners']
+
+positiontitle = "Head of Interactive & Immersive"
+positionorganisation = "Pilbrow & Partners"
+
 avatarURL = "images/rfrost_profile@256.png"
 #gravatar = "john.doe@example.com"
 footerContent = '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a> | <a href="/privacy/">Privacy</a>'
@@ -106,16 +110,22 @@ weight = 1
 url = "https://github.com/rdfrost/"
 
 [[params.social]]
-name = "Artstation"
-icon = "fa fa-artstation"
-weight = 2
-url = "https://www.artstation.com/rfrost"
-
-[[params.social]]
 name = "IMDB"
 icon = "fa fa-imdb"
-weight = 3
+weight = 2
 url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
+
+[[params.social]]
+name = "Pilbrow & Partners"
+icon = "fa fa-globe"
+weight = 3
+url = "https://www.pilbrowandpartners.com"
+
+# [[params.social]]
+# name = "Artstation"
+# icon = "fa fa-artstation"
+# weight = 4
+# url = "https://www.artstation.com/rfrost"
 
 [languages.en]
 languageName = ":uk:"
