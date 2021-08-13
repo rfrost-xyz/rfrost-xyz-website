@@ -52,12 +52,6 @@ date-to="Present" >}}
 ![logo-nvim](../images/clear.svg "Neovim")
 {{< /software >}}
 
-{{< software Language >}}
-![logo-cpp](../images/clear.svg "C++")
-![logo-python](../images/clear.svg "Python")
-![logo-powershell](../images/clear.svg "Powershell")
-{{< /software >}}
-
 {{< software SCM >}}
 ![logo-git](../images/clear.svg "Git")
 ![logo-github](../images/clear.svg "GitHub")
@@ -73,6 +67,27 @@ date-to="Present" >}}
 ![logo-aftereffects](../images/clear.svg "After Effects")
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
+
+{{< activity >}}
+* 3D Modelling
+* Parametric Modelling
+* UV Mapping
+* Texturing
+* Substance Graph
+* Lighting
+* Layout
+* Rigging
+* Animation
+* Blueprint
+* C++
+* Python
+* Powershell
+* Sequence
+* Rendering
+* Cryptomatte
+* Comp
+* Grading
+{{< /activity >}}
 
 {{< timeline-close >}}
 
@@ -121,11 +136,6 @@ date-to="May 2019" >}}
 ![logo-nvim](../images/clear.svg "Neovim")
 {{< /software >}}
 
-{{< software Language >}}
-![logo-python](../images/clear.svg "Python")
-![logo-powershell](../images/clear.svg "Powershell")
-{{< /software >}}
-
 {{< software Render >}}
 ![logo-vray](../images/clear.svg "V-Ray")
 {{< /software >}}
@@ -135,6 +145,26 @@ date-to="May 2019" >}}
 ![logo-aftereffects](../images/clear.svg "After Effects")
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
+
+{{< activity >}}
+* 3D Modelling
+* Parametric Modelling
+* UV Mapping
+* Texturing
+* Substance Graph
+* Lighting
+* Layout
+* Rigging
+* Animation
+* Blueprint
+* Python
+* Powershell
+* Sequence
+* Rendering
+* Cryptomatte
+* Comp
+* Grading
+{{< /activity >}}
 
 {{< timeline-close >}}
 
