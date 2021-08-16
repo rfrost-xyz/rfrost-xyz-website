@@ -17,6 +17,7 @@ date-from="May 2019"
 date-to="Present" >}}
 
 * Award winning architecture and urban design studio with a team of around 70 staff.
+* Second position and role at Pilbrow & Partners.
 
 {{< /timeline >}}
 
@@ -100,11 +101,11 @@ location="London"
 date-from="Feb 2018"
 date-to="May 2019" >}}
 
-* Involved in multiple large scale townscape developments for very high profile clients throughout London, and abroad.
-* Created numerous project fly-throughs, walk-throughs and still shots. Produced in Max, V-Ray, Arnold, composited in Nuke.
-* Spearheaded use of 32 bit shader reconstruction in Nuke, Substance, Cryptomatte, Forest Pack.
-* Created realtime interactive environments with Unreal, Substance and Anima, output to VR headset.
-* Utilised point cloud scans for photogrammetry and texture projection in Mari, for realistic scene capture.
+* Involved in multi-stage large scale developments for high profile clients throughout London, and abroad.
+* Working in close collaboration with practice partners and architects, assisted in all stages of project development.
+* Created library of procedural materials through custom Substance graph scripts.
+* Created interactive digital-twins, through Unreal Engine.
+* Produced numerous project fly-throughs and still compositions through 3ds Max/Unreal Engine/V-Ray, composited in Premiere Pro/After Effects and Photoshop.
 
 {{< /timeline >}}
 
@@ -217,7 +218,7 @@ date-to="Aug 2017" >}}
 * Handled all client relations. Coordinated and managed sub-contractors.
 * Developed custom library of procedural materials through Substance 3D Designer.
 * Utilised Nuke to composite images and animations in an efficient manner.
-* Developed applications in Unreal Engine, for developers to display site information in sales suites.
+* Developed digital-twin showcase applications for use in sales suites, created in Unreal Engine.
 
 {{< /timeline >}}
 
@@ -283,9 +284,9 @@ location="Birmingham"
 date-from="Jun 2006"
 date-to="Oct 2011" >}}
 
-* Award winning multi-disciplinary architecture practice based in Birmingham, merged with Corstorphine + Wright in 2014.
+* Award winning multi-disciplinary architecture practice based in Birmingham, merged with Corstorphine + Wright in 2014. 
 * Lead development of visualisation production across multiple sectors including: commercial, conservation, education, hospitality, residential, and retail.
-* Assisted building development through multiple stages of design and build imagery and animation, working in close collaboration with practice architects.
+* Assisted building development through multiple stages of design and build imagery and animation, working in close collaboration with practice directors and architects.
 * Tenure in position pre-dated modern CAD and BIM techniques, requiring all geometry to be modelled from scratch through reference drawings, necessitating a thorough understanding of efficient modelling techniques.
 * Produced final marketing visualisations for use in sales, and photo-montages at various stages of the design process.
 
