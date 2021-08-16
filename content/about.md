@@ -17,7 +17,11 @@ date-from="May 2019"
 date-to="Present" >}}
 
 * Award winning architecture and urban design studio with a team of around 70 staff.
-* Second position and role at Pilbrow & Partners.
+* Involved in multi-stage large scale developments for high profile clients throughout London, and abroad.
+* Working in close collaboration with practice partners and architects, assisted in all stages of project development.
+* Created interactive digital-twins, through Unreal Engine.
+* Created library of procedural materials through custom Substance graph scripts.
+* Developed and lead internal tool and pipeline development.
 
 {{< /timeline >}}
 
@@ -101,10 +105,10 @@ location="London"
 date-from="Feb 2018"
 date-to="May 2019" >}}
 
+* Award winning architecture and urban design studio with a team of around 70 staff.
 * Involved in multi-stage large scale developments for high profile clients throughout London, and abroad.
 * Working in close collaboration with practice partners and architects, assisted in all stages of project development.
 * Created library of procedural materials through custom Substance graph scripts.
-* Created interactive digital-twins, through Unreal Engine.
 * Produced numerous project fly-throughs and still compositions through 3ds Max/Unreal Engine/V-Ray, composited in Premiere Pro/After Effects and Photoshop.
 
 {{< /timeline >}}
