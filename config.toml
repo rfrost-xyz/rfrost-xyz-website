@@ -153,9 +153,6 @@ url = "contact/"
 
 
 
-
-
-
 [privacy]
   [privacy.disqus]
     disable = true
