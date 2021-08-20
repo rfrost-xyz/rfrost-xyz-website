@@ -17,3 +17,5 @@ Link to support Qubes/Community article
 Content
 
 https://www.qubes-os.org/doc/bind-dirs/#what-is-it-useful-for
+
+https://github.com/etesync/etesync-dav/blob/master/README.md#configuration-and-running
