@@ -19,6 +19,7 @@ info = ['Head of Interactive & Immersive at Pilbrow & Partners']
 
 positiontitle = "Head of Interactive & Immersive"
 positionorganisation = "Pilbrow & Partners"
+positionurl = "https://www.pilbrowandpartners.com/"
 
 avatarURL = "images/rfrost_profile@256.png"
 #gravatar = "john.doe@example.com"
@@ -114,18 +115,6 @@ name = "IMDB"
 icon = "fa fa-imdb"
 weight = 2
 url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
-
-[[params.social]]
-name = "Pilbrow & Partners"
-icon = "fa fa-globe"
-weight = 3
-url = "https://www.pilbrowandpartners.com"
-
-# [[params.social]]
-# name = "Artstation"
-# icon = "fa fa-artstation"
-# weight = 4
-# url = "https://www.artstation.com/rfrost"
 
 [languages.en]
 languageName = ":uk:"

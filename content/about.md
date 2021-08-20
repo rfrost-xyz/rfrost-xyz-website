@@ -182,7 +182,7 @@ location="Remote"
 date-from="Apr 2014"
 date-to="Jan 2018" >}}
 
-* Produced multiple shots for [Troll Bridge](https://www.trollbridge.film/), a 28-minute short film direct by Daniel Knight, based on the Discworld story originally published in After the King.
+* Produced multiple shots for [Troll Bridge](https://www.trollbridge.film/) community project, a 28-minute short film direct by Daniel Knight, based on the Discworld story originally published in After the King.
 * Work predominantly included large amounts of paint work, head replacement for horse and actor replacement for Troll (Micah).
 * Significant amount of matte creation, resolving challenging issues through elaborate node networks, in order to retain wiry hair integrity over CG backplates.
 
