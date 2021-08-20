@@ -14,5 +14,4 @@ In order to limit spam, the above email address is for inbound email only, and m
 
 ## PGP
 
-* [`PGP Key`](/D9F3D61D58A95A26ADFDC275A2B8544EC71193C1.asc)
-* Fingerprint: `D9F3 D61D 58A9 5A26 ADFD C275 A2BB 544E C711 93C1`
+* [`D9F3 D61D 58A9 5A26 ADFD C275 A2BB 544E C711 93C1`](/rf.asc)
