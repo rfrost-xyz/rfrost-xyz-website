@@ -139,9 +139,6 @@ name = "Contact"
 weight = 4
 url = "contact/"
 
-
-
-
 [privacy]
   [privacy.disqus]
     disable = true
