@@ -18,7 +18,7 @@ Source files for [website][website].
 
 ### Serve locally
 
-1. Clone the repository.
+1. Clone the repo.
 2. Initialise sub-modules:
    
 	```
@@ -30,7 +30,7 @@ Source files for [website][website].
 	```
 	hugo serve
 	```
-4. View the result at [localhost:1313](http://localhost:1313/).
+3. View result at [localhost:1313](http://localhost:1313/).
 
 ## License
 <!-- https://github.com/santisoler/cc-licenses -->
