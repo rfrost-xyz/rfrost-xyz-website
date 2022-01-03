@@ -36,19 +36,18 @@ date-to="Present" >}}
 {{< software Plugin >}}
 ![logo-forestpack](../images/clear.svg "Forest Pack")
 ![logo-railclone](../images/clear.svg "Railclone")
-![logo-anima](../images/clear.svg "Anima")
-![logo-speedtree](../images/clear.svg "SpeedTree")
+![logo-cesium](../images/clear.svg "Cesium")
 {{< /software >}}
 
 {{< software Texture >}}
 ![logo-substance-designer](../images/clear.svg "Substance 3D Designer")
 ![logo-substance-painter](../images/clear.svg "Substance 3D Painter")
 ![logo-substance-sampler](../images/clear.svg "Substance 3D Sampler")
-![logo-quixel-bridge](../images/clear.svg "Quixel Bridge")
 {{< /software >}}
 
 {{< software Engine >}}
 ![logo-unreal-engine](../images/clear.svg "Unreal Engine")
+![logo-unity](../images/clear.svg "Unity")
 {{< /software >}}
 
 {{< software Dev >}}
@@ -60,11 +59,6 @@ date-to="Present" >}}
 {{< software SCM >}}
 ![logo-git](../images/clear.svg "Git")
 ![logo-github](../images/clear.svg "GitHub")
-{{< /software >}}
-
-{{< software GIS >}}
-![logo-qgis](../images/clear.svg "QGIS")
-![logo-cesium](../images/clear.svg "Cesium")
 {{< /software >}}
 
 {{< software Comp >}}
@@ -138,7 +132,7 @@ date-to="May 2019" >}}
 {{< /software >}}
 
 {{< software Dev >}}
-![logo-vs-2019](../images/clear.svg "Visual Studio")
+![logo-vs-code](../images/clear.svg "Visual Studio Code")
 ![logo-nvim](../images/clear.svg "Neovim")
 {{< /software >}}
 
