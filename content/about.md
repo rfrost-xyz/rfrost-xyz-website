@@ -73,8 +73,8 @@ date-to="Present" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+<!--
 {{< activity >}}
-
 - 3D Modelling
 - Parametric Modelling
 - UV Mapping
@@ -94,6 +94,7 @@ date-to="Present" >}}
 - Comp
 - Grading
   {{< /activity >}}
+  -->
 
 {{< timeline-close >}}
 
@@ -151,8 +152,8 @@ date-to="May 2019" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+<!--
 {{< activity >}}
-
 - 3D Modelling
 - Parametric Modelling
 - UV Mapping
@@ -170,7 +171,8 @@ date-to="May 2019" >}}
 - Cryptomatte
 - Comp
 - Grading
-  {{< /activity >}}
+{{< /activity >}}
+-->
 
 {{< timeline-close >}}
 
@@ -198,14 +200,15 @@ date-to="Jan 2018" >}}
 ![logo-shotgrid](../images/clear.svg "ShotGrid")
 {{< /software >}}
 
+<!--
 {{< activity >}}
-
 - Roto
 - Paint
 - Actor Replacement
 - Camera Correction
 - Grading
   {{< /activity >}}
+-->
 
 {{< timeline-close >}}
 
@@ -259,8 +262,8 @@ date-to="Aug 2017" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+<!--
 {{< activity >}}
-
 - 3D Modelling
 - UV Mapping
 - Texturing
@@ -276,7 +279,8 @@ date-to="Aug 2017" >}}
 - Cryptomatte
 - Comp
 - Grading
-  {{< /activity >}}
+{{< /activity >}}
+-->
 
 {{< timeline-close >}}
 
@@ -320,6 +324,7 @@ date-to="Oct 2011" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+<!--
 {{< activity >}}
 
 - 3D Modelling
@@ -333,7 +338,9 @@ date-to="Oct 2011" >}}
 - Rendering
 - Comp
 - Grading
-  {{< /activity >}}
+
+{{< /activity >}}
+-->
 
 {{< timeline-close >}}
 
@@ -371,8 +378,8 @@ date-to="Jun 2006" >}}
 ![logo-photoshop](../images/clear.svg "Photoshop")
 {{< /software >}}
 
+<!-- 
 {{< activity >}}
-
 - 3D Modelling
 - UV Mapping
 - Texturing
@@ -385,6 +392,7 @@ date-to="Jun 2006" >}}
 - Comp
 - Grading
   {{< /activity >}}
+  -->
 
 {{< timeline-close >}}
 
