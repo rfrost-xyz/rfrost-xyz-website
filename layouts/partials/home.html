@@ -10,6 +10,17 @@
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
     <h2>{{ .Site.Params.positiontitle }} at <a href="{{ .Site.Params.positionurl }}">{{ .Site.Params.positionorganisation }}</a></h2>
+
+	<video width="300" controls loop preload="metadata">
+		<source src="../video/RF_Reel_2022_1080p.mp4" type="video/mp4">
+		Sorry, your browser doesn't support embedded videos.
+	</video>
+
+	<br>
+
+	<iframe src="https://player.vimeo.com/video/662597761?h=1ab2562d98&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Richard Frost Showreel"></iframe>
+	<script src="https://player.vimeo.com/api/player.js"></script>
+
     {{ with .Site.Params.social }}
     <ul>
       {{ range sort . "weight" }}
