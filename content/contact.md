@@ -4,7 +4,7 @@ slug = "contact"
 description = "Richard Frost - Contact"
 +++
 
-Email is always welcome, and I encourage comment. If I don’t respond or do so only after an extended amount of time has passed, please don’t take it personally. The email alias below may change without notice. If a response is necessary, I will reply to your enquiry from my personal email address.
+Email is always welcome, and I encourage comment. If I don’t respond or do so only after an extended amount of time has passed, please don’t take it personally. The alias address below may change without notice. If a response is necessary, I will reply to your enquiry from my personal email address.
 
 ## Email
 
