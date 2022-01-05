@@ -8,8 +8,6 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
 
 [params]
 author = "Richard Frost"
@@ -22,7 +20,6 @@ positionorganisation = "Pilbrow & Partners"
 positionurl = "https://www.pilbrowandpartners.com/"
 
 avatarURL = "images/rfrost_profile@256.png"
-#gravatar = "john.doe@example.com"
 footerContent = '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a> | <a href="/privacy/">Privacy</a>'
 dateFormat = "January 2, 2006"
 hideFooter = false
@@ -34,7 +31,6 @@ since = 2018
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
 # Specify light/dark colorscheme
-# Supported values:
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
@@ -154,6 +150,6 @@ url = "contact/"
   [privacy.twitter]
     disable = true
   [privacy.vimeo]
-    disable = true
+    disable = false
   [privacy.youtube]
     disable = true
