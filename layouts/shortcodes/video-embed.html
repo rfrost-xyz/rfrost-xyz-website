@@ -1,4 +1,5 @@
-<video width="860" controls loop preload="metadata">
-	<source src="../video/RF_Reel_2022_1080p.mp4" type="video/mp4">
-	Sorry, your browser doesn't support embedded videos. Please visit the following link to view the video:
+<video width="860" controls preload="metadata" poster="../video/{{.Get "poster"}}">
+	<source src="../video/{{.Get "url"}}" type="video/mp4">
+
+	Sorry, your browser doesn't support embedded videos. Please visit the following link to view the video. <a href="../video/{{.Get "url"}}">Link</a>
 </video>
