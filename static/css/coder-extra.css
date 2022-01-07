@@ -170,9 +170,9 @@ img[alt=logo-speedtree],
 img[alt=logo-cesium],
 img[alt=logo-qgis],
 img[alt=logo-shotgrid] {
-	width: 36px;
+	width: 32px;
 	margin: 5px 10px 0 0;
-	background-size: 36px 36px !important;
+	background-size: 32px 32px !important;
 	background-repeat: no-repeat !important;
 	background-position: center !important;
 }
