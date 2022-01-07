@@ -4,7 +4,7 @@ slug = "about"
 description = "Richard Frost - About"
 +++
 
-{{< title-pos >}} at {{< title-org >}}, with {{< professional-time >}} years industry experience . Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, meticulous, conscientious, motivated, with a track record of delivering high-end output.
+{{< title-pos >}} at {{< title-org >}}, with {{% years-till-today 1067644800 %}} years industry experience . Contributing to many high profile projects, in interactive 3D, immersive, VFX, and visualisation. Highly technical, meticulous, conscientious, motivated, with a track record of delivering high-end output.
 
 ## Experience
 
