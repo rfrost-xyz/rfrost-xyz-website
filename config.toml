@@ -111,10 +111,10 @@ name = "Reel"
 weight = 2
 url = "reel/"
 
-# [[languages.en.menu.main]]
-# name = "Posts"
-# weight = 3
-# url = "posts/"
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 3
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact"
