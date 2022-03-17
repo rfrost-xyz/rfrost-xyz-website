@@ -9,7 +9,9 @@ tags = [
 ]
 +++
 
-Thunderbird pulls the its date format from `/etc/locale.conf`. By Default Qubes (4.01) uses the `C.UTF-8` locale, resulting in Thunderbird formatting dates as MM/DD/YYYY. Create the following files, and restart the Qube once complete.
+By Default Qubes (4.01) uses the `C.UTF-8` locale, resulting in Thunderbird formatting dates as `MM/DD/YYYY`.
+
+To utilise the more sensible date formatting of ISO-8601 and format dates as `DD/MM/YYY`, create the following files and restart the Qube once complete.
 <!--more-->
 
 ### /rw/config/locale.conf
@@ -21,7 +23,6 @@ LANG=en_GB.UTF-8
 ### /rw/config/rc.local
 
 ```shell
-# Date format
 rm -rf /etc/locale.conf
 ln -s /rw/config/locale.conf /etc/locale.conf
 localectl
