@@ -96,7 +96,7 @@ url = "https://www.linkedin.com/in/rfrost-xyz"
 name = "GitHub"
 icon = "fa fa-github"
 weight = 2
-url = "https://github.com/rdfrost/"
+url = "https://github.com/rfrost-xyz/"
 
 [[params.social]]
 name = "IMDB"
@@ -107,24 +107,24 @@ url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+#[[languages.en.menu.main]]
+#name = "About"
+#weight = 1
+#url = "about/"
 
 [[languages.en.menu.main]]
 name = "Reel"
-weight = 2
+weight = 1
 url = "reel/"
 
 [[languages.en.menu.main]]
 name = "Posts"
-weight = 3
+weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact"
-weight = 4
+weight = 3
 url = "contact/"
 
 [privacy]

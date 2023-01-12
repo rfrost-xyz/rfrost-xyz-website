@@ -13,6 +13,6 @@ Thank you for visiting. Email is always welcome, and I encourage comment. If you
 
 ## Social
 
-[LinkedIn](https://www.linkedin.com/in/rfrost-xyz)
-[GitHub](https://www.github.com/rfrost-xyz)
-[IMDB](https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82)
+- [LinkedIn](https://www.linkedin.com/in/rfrost-xyz)
+- [GitHub](https://www.github.com/rfrost-xyz)
+- [IMDB](https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82)
