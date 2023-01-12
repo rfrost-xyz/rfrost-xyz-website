@@ -20,7 +20,7 @@ Source files for [website][website].
 
 1. Clone the repo.
 2. Initialise sub-modules:
-   
+
 	```
 	git submodule init
 	git submodule update
