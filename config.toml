@@ -90,13 +90,13 @@ author = "authors"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 1
-url = "https://www.linkedin.com/in/rfrost-xyz/"
+url = "https://github.com/rdfrost/"
 
 [[params.social]]
 name = "GitHub"
 icon = "fa fa-github"
 weight = 2
-url = "https://github.com/rdfrost/"
+url = "https://github.com/rfrost-xyz/"
 
 [[params.social]]
 name = "IMDB"
@@ -108,18 +108,23 @@ url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "Reel"
+name = "About"
 weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Reel"
+weight = 2
 url = "reel/"
 
 [[languages.en.menu.main]]
 name = "Posts"
-weight = 2
+weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact"
-weight = 3
+weight = 4
 url = "contact/"
 
 [privacy]
