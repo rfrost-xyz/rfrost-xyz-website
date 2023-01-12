@@ -90,13 +90,13 @@ author = "authors"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 1
-url = "https://github.com/rdfrost/"
+url = "https://www.linkedin.com/in/rfrost-xyz"
 
 [[params.social]]
 name = "GitHub"
 icon = "fa fa-github"
 weight = 2
-url = "https://github.com/rfrost-xyz/"
+url = "https://github.com/rdfrost/"
 
 [[params.social]]
 name = "IMDB"
