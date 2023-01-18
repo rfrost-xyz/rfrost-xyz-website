@@ -104,6 +104,12 @@ icon = "fa fa-imdb"
 weight = 3
 url = "https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"
 
+[[params.social]]
+name = "Artstation"
+icon = "fa fa-artstation"
+weight = 4
+url = "https://www.artstation.com/rfrost/"
+
 [languages.en]
 languageName = ":uk:"
 

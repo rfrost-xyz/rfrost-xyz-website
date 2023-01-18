@@ -16,3 +16,4 @@ Thank you for visiting. Email is always welcome, and I encourage comment. If you
 <a href="https://www.linkedin.com/in/rfrost-xyz"><i class="fa contact fa-linkedin"></i></a>
 <a href="https://www.github.com/rfrost-xyz"><i class="fa contact fa-github"></i></a>
 <a href="https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"><i class="fa contact fa-imdb"></i></a>
+<a href="https://www.artstation.com/rfrost/"><i class="fa contact fa-artstation"></i></a>
