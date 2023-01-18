@@ -14,7 +14,7 @@ Source files for [website][website].
 ## Usage
 
 ### Pre-requisites
-* [Hugo](https://gohugo.io/getting-started/installing/) (version 0.84.3, or above)
+* [Hugo (Extended version)](https://gohugo.io/getting-started/installing/) (version 0.84.3, or above)
 
 ### Serve locally
 

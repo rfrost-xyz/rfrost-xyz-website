@@ -149,3 +149,7 @@ url = "contact/"
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
+
+# iframe override
+[markup.goldmark.renderer]
+ unsafe = true
