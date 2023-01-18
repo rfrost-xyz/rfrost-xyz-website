@@ -11,8 +11,8 @@ Thank you for visiting. Email is always welcome, and I encourage comment. If you
 - Address: [`mail@rfrost.xyz`](mailto:mail@rfrost.xyz?subject=Website%20enquiry)
 - PGP: [`D9F3 D61D 58A9 5A26 ADFD C275 A2BB 544E C711 93C1`](/rf.asc)
 
-## Social
+## Links
 
-- [LinkedIn](https://www.linkedin.com/in/rfrost-xyz)
-- [GitHub](https://www.github.com/rfrost-xyz)
-- [IMDB](https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82)
+<a href="https://www.linkedin.com/in/rfrost-xyz"><i class="fa contact fa-linkedin"></i></a>
+<a href="https://www.github.com/rfrost-xyz"><i class="fa contact fa-github"></i></a>
+<a href="https://www.imdb.com/name/nm9553938/?ref_=ttfc_fc_cr82"><i class="fa contact fa-imdb"></i></a>

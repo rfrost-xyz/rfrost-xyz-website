@@ -1,19 +1,30 @@
 /* ----- Font ----- */
 @font-face {
 	font-family: AndSuisse-Light;
-	src: url("../font/AndSuisse-Light-WebS.woff2") format("woff2"), url("../font/AndSuisse-Light-WebS.woff") format("woff"), url("../font/AndSuisse-Light.ttf") format("truetype");
+	src: url('../font/AndSuisse-Light-WebS.woff2') format('woff2'),
+		url('../font/AndSuisse-Light-WebS.woff') format('woff'),
+		url('../font/AndSuisse-Light.ttf') format('truetype');
 }
 @font-face {
 	font-family: SuisseIntl-Medium;
-	src: url("../font/SuisseIntl-Medium.woff2") format("woff2"), url("../font/SuisseIntl-Medium.woff") format("woff"), url("../font/SuisseIntl-Medium.ttf") format("truetype");
+	src: url('../font/SuisseIntl-Medium.woff2') format('woff2'),
+		url('../font/SuisseIntl-Medium.woff') format('woff'),
+		url('../font/SuisseIntl-Medium.ttf') format('truetype');
 }
 @font-face {
 	font-family: SuisseIntl-SemiBold;
-	src: url("../font/SuisseIntl-SemiBold.woff2") format("woff2"), url("../font/SuisseIntl-SemiBold.woff") format("woff"), url("../font/SuisseIntl-SemiBold.ttf") format("truetype");
+	src: url('../font/SuisseIntl-SemiBold.woff2') format('woff2'),
+		url('../font/SuisseIntl-SemiBold.woff') format('woff'),
+		url('../font/SuisseIntl-SemiBold.ttf') format('truetype');
 }
 
 /* ----- Type ----- */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif;
 	color: #333333;
 	font-weight: normal;
@@ -40,24 +51,20 @@ article p {
 	font-size: 1.4em !important;
 }
 
-
 pre,
 code {
 	background-color: #f0f0f0 !important;
 }
 
-
 body.colorscheme-dark {
-    /* color: #dadada; */
-    background-color: #0d1117;
+	/* color: #dadada; */
+	background-color: #0d1117;
 }
 
 body.colorscheme-dark .highlight pre,
 body.colorscheme-dark code {
 	background-color: #141920 !important;
 }
-
-
 
 /* ----- Avatar ----- */
 .avatar img {
@@ -70,16 +77,16 @@ body.colorscheme-dark code {
 	-webkit-border-radius: 90px;
 	border: 3px solid #fff;
 	-webkit-box-shadow: 0 0em 0.4em rgba(0, 0, 0, 0.1);
-			box-shadow: 0 0em 0.4em rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0em 0.4em rgba(0, 0, 0, 0.1);
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 .avatar img:hover {
 	cursor: pointer;
 	-webkit-transform: scale(1.1);
-			transform: scale(1.1);
+	transform: scale(1.1);
 	-webkit-box-shadow: 0.2em 0.2em 0.6em rgba(0, 0, 0, 0.18);
-			box-shadow: 0.2em 0.2em 0.6em rgba(0, 0, 0, 0.18);
+	box-shadow: 0.2em 0.2em 0.6em rgba(0, 0, 0, 0.18);
 }
 
 /* body a:hover, li a:hover {
@@ -105,13 +112,12 @@ body.colorscheme-dark .tag a {
 	color: #515848 !important;
 }
 
-
 .navigation a {
 	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif !important;
 	font-weight: normal !important;
 }
 .navigation .navigation-title {
-    letter-spacing: normal !important;
+	letter-spacing: normal !important;
 }
 .footer {
 	font-size: 1.4rem !important;
@@ -127,49 +133,39 @@ body.colorscheme-dark .footer a:link {
 	margin-bottom: 0 !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-img[alt=logo-unreal-engine],
-img[alt=logo-unity],
-img[alt=logo-git],
-img[alt=logo-python],
-img[alt=logo-3dsmax],
-img[alt=logo-blender],
-img[alt=logo-substance-designer],
-img[alt=logo-substance-painter],
-img[alt=logo-substance-sampler],
-img[alt=logo-premiere],
-img[alt=logo-aftereffects],
-img[alt=logo-nuke],
-img[alt=logo-vray],
-img[alt=logo-brazil-rs],
-img[alt=logo-forestpack],
-img[alt=logo-railclone],
-img[alt=logo-photoshop],
-img[alt=logo-github],
-img[alt=logo-rhino],
-img[alt=logo-modo],
-img[alt=logo-mari],
-img[alt=logo-quixel-bridge],
-img[alt=logo-vs-code],
-img[alt=logo-vs-2019],
-img[alt=logo-nvim],
-img[alt=logo-vim],
-img[alt=logo-powershell],
-img[alt=logo-cpp],
-img[alt=logo-anima],
-img[alt=logo-speedtree],
-img[alt=logo-cesium],
-img[alt=logo-qgis],
-img[alt=logo-shotgrid] {
+img[alt='logo-unreal-engine'],
+img[alt='logo-unity'],
+img[alt='logo-git'],
+img[alt='logo-python'],
+img[alt='logo-3dsmax'],
+img[alt='logo-blender'],
+img[alt='logo-substance-designer'],
+img[alt='logo-substance-painter'],
+img[alt='logo-substance-sampler'],
+img[alt='logo-premiere'],
+img[alt='logo-aftereffects'],
+img[alt='logo-nuke'],
+img[alt='logo-vray'],
+img[alt='logo-brazil-rs'],
+img[alt='logo-forestpack'],
+img[alt='logo-railclone'],
+img[alt='logo-photoshop'],
+img[alt='logo-github'],
+img[alt='logo-rhino'],
+img[alt='logo-modo'],
+img[alt='logo-mari'],
+img[alt='logo-quixel-bridge'],
+img[alt='logo-vs-code'],
+img[alt='logo-vs-2019'],
+img[alt='logo-nvim'],
+img[alt='logo-vim'],
+img[alt='logo-powershell'],
+img[alt='logo-cpp'],
+img[alt='logo-anima'],
+img[alt='logo-speedtree'],
+img[alt='logo-cesium'],
+img[alt='logo-qgis'],
+img[alt='logo-shotgrid'] {
 	width: 32px;
 	margin: 5px 10px 0 0;
 	background-size: 32px 32px !important;
@@ -177,122 +173,114 @@ img[alt=logo-shotgrid] {
 	background-position: center !important;
 }
 
-
-
-img[alt=logo-unreal-engine] {
-	background: url("../images/logo/unreal-engine.svg");
+img[alt='logo-unreal-engine'] {
+	background: url('../images/logo/unreal-engine.svg');
 }
-img[alt=logo-unity] {
-	background: url("../images/logo/unity.svg");
+img[alt='logo-unity'] {
+	background: url('../images/logo/unity.svg');
 }
-img[alt=logo-git] {
-	background: url("../images/logo/git.svg");
+img[alt='logo-git'] {
+	background: url('../images/logo/git.svg');
 }
-img[alt=logo-python] {
-	background: url("../images/logo/python.svg");
+img[alt='logo-python'] {
+	background: url('../images/logo/python.svg');
 }
-img[alt=logo-3dsmax] {
-	background: url("../images/logo/3dsmax.svg");
+img[alt='logo-3dsmax'] {
+	background: url('../images/logo/3dsmax.svg');
 }
-img[alt=logo-blender] {
-	background: url("../images/logo/blender.svg");
+img[alt='logo-blender'] {
+	background: url('../images/logo/blender.svg');
 }
-img[alt=logo-substance-designer] {
-	background: url("../images/logo/substance-designer.svg");
+img[alt='logo-substance-designer'] {
+	background: url('../images/logo/substance-designer.svg');
 }
-img[alt=logo-substance-painter] {
-	background: url("../images/logo/substance-painter.svg");
+img[alt='logo-substance-painter'] {
+	background: url('../images/logo/substance-painter.svg');
 }
-img[alt=logo-substance-sampler] {
-	background: url("../images/logo/substance-sampler.svg");
+img[alt='logo-substance-sampler'] {
+	background: url('../images/logo/substance-sampler.svg');
 }
-img[alt=logo-premiere] {
-	background: url("../images/logo/premiere.svg");
+img[alt='logo-premiere'] {
+	background: url('../images/logo/premiere.svg');
 }
-img[alt=logo-aftereffects] {
-	background: url("../images/logo/aftereffects.svg");
+img[alt='logo-aftereffects'] {
+	background: url('../images/logo/aftereffects.svg');
 }
-img[alt=logo-nuke] {
-	background: url("../images/logo/nuke.svg");
+img[alt='logo-nuke'] {
+	background: url('../images/logo/nuke.svg');
 }
-img[alt=logo-vray] {
-	background: url("../images/logo/v-ray.svg");
+img[alt='logo-vray'] {
+	background: url('../images/logo/v-ray.svg');
 }
-img[alt=logo-brazil-rs] {
-	background: url("../images/logo/brazil-rs.svg");
+img[alt='logo-brazil-rs'] {
+	background: url('../images/logo/brazil-rs.svg');
 }
-img[alt=logo-forestpack] {
-	background: url("../images/logo/forestpack.svg");
+img[alt='logo-forestpack'] {
+	background: url('../images/logo/forestpack.svg');
 }
-img[alt=logo-railclone] {
-	background: url("../images/logo/railclone.svg");
+img[alt='logo-railclone'] {
+	background: url('../images/logo/railclone.svg');
 }
-img[alt=logo-photoshop] {
-	background: url("../images/logo/photoshop.svg");
+img[alt='logo-photoshop'] {
+	background: url('../images/logo/photoshop.svg');
 }
-img[alt=logo-github] {
-	background: url("../images/logo/github.svg");
+img[alt='logo-github'] {
+	background: url('../images/logo/github.svg');
 }
-img[alt=logo-rhino] {
-	background: url("../images/logo/rhino.svg");
+img[alt='logo-rhino'] {
+	background: url('../images/logo/rhino.svg');
 }
-img[alt=logo-modo] {
-	background: url("../images/logo/modo.svg");
+img[alt='logo-modo'] {
+	background: url('../images/logo/modo.svg');
 }
-img[alt=logo-mari] {
-	background: url("../images/logo/mari.svg");
+img[alt='logo-mari'] {
+	background: url('../images/logo/mari.svg');
 }
-img[alt=logo-quixel-bridge] {
-	background: url("../images/logo/quixel-bridge.svg");
+img[alt='logo-quixel-bridge'] {
+	background: url('../images/logo/quixel-bridge.svg');
 }
-img[alt=logo-vs-code] {
-	background: url("../images/logo/visual-studio-code.svg");
+img[alt='logo-vs-code'] {
+	background: url('../images/logo/visual-studio-code.svg');
 }
-img[alt=logo-vs-2019] {
-	background: url("../images/logo/visual-studio-2019.svg");
+img[alt='logo-vs-2019'] {
+	background: url('../images/logo/visual-studio-2019.svg');
 }
-img[alt=logo-nvim] {
-	background: url("../images/logo/neovim.svg");
+img[alt='logo-nvim'] {
+	background: url('../images/logo/neovim.svg');
 }
-img[alt=logo-vim] {
-	background: url("../images/logo/vim.svg");
+img[alt='logo-vim'] {
+	background: url('../images/logo/vim.svg');
 }
-img[alt=logo-powershell] {
-	background: url("../images/logo/powershell.svg");
+img[alt='logo-powershell'] {
+	background: url('../images/logo/powershell.svg');
 }
-img[alt=logo-cpp] {
-	background: url("../images/logo/cpp.svg");
+img[alt='logo-cpp'] {
+	background: url('../images/logo/cpp.svg');
 }
-img[alt=logo-anima] {
-	background: url("../images/logo/anima.svg");
+img[alt='logo-anima'] {
+	background: url('../images/logo/anima.svg');
 }
-img[alt=logo-speedtree] {
-	background: url("../images/logo/speedtree.svg");
+img[alt='logo-speedtree'] {
+	background: url('../images/logo/speedtree.svg');
 }
-img[alt=logo-cesium] {
-	background: url("../images/logo/cesium.svg");
+img[alt='logo-cesium'] {
+	background: url('../images/logo/cesium.svg');
 }
-img[alt=logo-qgis] {
-	background: url("../images/logo/qgis.svg");
+img[alt='logo-qgis'] {
+	background: url('../images/logo/qgis.svg');
 }
-img[alt=logo-shotgrid] {
-	background: url("../images/logo/shotgrid.svg");
+img[alt='logo-shotgrid'] {
+	background: url('../images/logo/shotgrid.svg');
 }
-body.colorscheme-dark img[alt=logo-unreal-engine],
-body.colorscheme-dark img[alt=logo-unity],
-body.colorscheme-dark img[alt=logo-vray],
-body.colorscheme-dark img[alt=logo-rhino],
-body.colorscheme-dark img[alt=logo-github],
-body.colorscheme-dark img[alt=logo-shotgrid] {
+body.colorscheme-dark img[alt='logo-unreal-engine'],
+body.colorscheme-dark img[alt='logo-unity'],
+body.colorscheme-dark img[alt='logo-vray'],
+body.colorscheme-dark img[alt='logo-rhino'],
+body.colorscheme-dark img[alt='logo-github'],
+body.colorscheme-dark img[alt='logo-shotgrid'] {
 	/* https://codepen.io/sosuke/pen/Pjoqqp */
 	filter: invert(100%) sepia(94%) saturate(24%) hue-rotate(57deg) brightness(105%) contrast(108%);
 }
-
-
-
-
-
-
 
 .timeline h4 {
 	margin: 1em 0 0.3em;
@@ -311,18 +299,15 @@ body.colorscheme-dark img[alt=logo-shotgrid] {
 	line-height: 1;
 	text-align: center;
 	white-space: nowrap;
-	border-radius: .3em;
+	border-radius: 0.3em;
 	font-size: 0.8em;
-    color: #1565c0;
-    border: 1px solid #1565c0;
+	color: #1565c0;
+	border: 1px solid #1565c0;
 }
 body.colorscheme-dark .activity li {
 	color: #42a5f5;
 	border-color: #42a5f5;
 }
-
-
-
 
 .timeline .position {
 	margin-bottom: 0.5rem;
@@ -348,8 +333,6 @@ body.colorscheme-dark .timeline hr {
 	border-color: rgb(56, 56, 56) !important;
 }
 
-
-
 .software {
 	margin-left: 1.5em;
 }
@@ -368,8 +351,16 @@ body.colorscheme-dark .timeline hr {
 	font-family: SuisseIntl-Medium, Arial, Helvetica, sans-serif;
 }
 
-
-
+.fa.contact {
+	margin-right: 1rem;
+	color: #212121;
+	font-size: 3.2rem !important;
+}
+a:hover .fa.contact,
+a:focus .fa.contact {
+	transition: all 0.25s ease-in;
+	color: #1565c0;
+}
 
 video {
 	max-width: 100%;
