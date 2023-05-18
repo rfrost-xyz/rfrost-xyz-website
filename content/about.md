@@ -14,7 +14,7 @@ url="https://www.pilbrowandpartners.com/"
 position="Head of Interactive & Immersive"
 location="London"
 date-from="May 2019"
-date-to="Present" >}}
+date-to="May 2023" >}}
 
 <!-- * Award winning architecture and urban design studio based in Clerkenwell, London.
 * Involved in multi-stage large scale developments for high profile clients throughout London, and abroad.
