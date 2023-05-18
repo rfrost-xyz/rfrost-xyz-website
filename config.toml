@@ -15,9 +15,9 @@ description = "Senior Unreal Developer at Squint/Opera"
 keywords = "blog,developer,personal"
 info = ['Senior Unreal Developer at Squint/Opera']
 
-positiontitle = "Head of Interactive & Immersive"
-positionorganisation = "Pilbrow & Partners"
-positionurl = "https://www.pilbrowandpartners.com/"
+positiontitle = "Senior Unreal Developer"
+positionorganisation = "Squint/Opera"
+positionurl = "https://www.squintopera.com"
 
 avatarURL = "images/rfrost_profile@256.png"
 footerContent = '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a> | <a href="/privacy/">Privacy</a>'
